@@ -1,0 +1,945 @@
+{
+ "version": 1,
+ "actualizado": "2026-11-17",
+ "artista": {
+  "nombre": "LAST CALL",
+  "bio": "Dark pop artist. Produced by Mashlanzer.",
+  "spotify": "https://open.spotify.com/artist/7JXoT1wLvknTMi9D7Z0tc5",
+  "youtube": "https://www.youtube.com/channel/UCSGx55RnqxXjk1WY1Lo4jYQ",
+  "web": "https://mashlanzer.github.io/LastCall/",
+  "hyperfollow": "https://distrokid.com/hyperfollow/lastcall14/wide-awake",
+  "instagram": "https://www.instagram.com/mashlanzer.new/"
+ },
+ "stats": {
+  "spotify_oyentes": 2,
+  "youtube_subs": 7,
+  "canciones": 114,
+  "tomas": 231
+ },
+ "proximo_lanzamiento": {
+  "titulo": "Wide Awake",
+  "fecha_iso": "2026-11-27",
+  "texto": "Sale el viernes 27/11/2026 · 24 tiendas · video oficial el mismo día"
+ },
+ "canciones": [
+  {
+   "titulo": "Sleep Tight",
+   "estado": "Publicada",
+   "tomas": 1,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "2 A.M.",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Wide Awake",
+   "estado": "Publicada",
+   "tomas": 4,
+   "bpm": "125",
+   "duracion": "2:29"
+  },
+  {
+   "titulo": "Red Moon",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "2 A.M. — Prueba rápida (145 bpm)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "145",
+   "duracion": ""
+  },
+  {
+   "titulo": "Wide Awake — Prueba rápida (148 bpm)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "148",
+   "duracion": ""
+  },
+  {
+   "titulo": "Red Moon — Prueba rápida (142 bpm)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "142",
+   "duracion": ""
+  },
+  {
+   "titulo": "2 A.M. (v2)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Wide Awake (v2)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Red Moon (v2)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "2 A.M. (Stellar Cut)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Wide Awake (Stellar Cut)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Red Moon (Stellar Cut)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "2 A.M. (Stellar Cut Full)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Wide Awake (Stellar Cut Full)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Red Moon (Stellar Cut Full)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "2 A.M. (Stellar Cut Full v2)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Wide Awake (Stellar Cut Full v2)",
+   "estado": "En producción",
+   "tomas": 2,
+   "bpm": "125",
+   "duracion": "2:29"
+  },
+  {
+   "titulo": "Red Moon (Stellar Cut Full v2)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Static",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Porcelain",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Ultraviolet",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Red Moon (Nueva)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "On Read",
+   "estado": "Bancada",
+   "tomas": 4,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Plastic Halo",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Paper Mask",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "10 Minutes",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Static (Nueva)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Porcelain (Nueva)",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Voltage",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Porcelain (Nuestra voz)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "My Jacket",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Tag, You're It (Receta Sleep Tight)",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Second Skin (Receta Wide Awake)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Cheap Perfume",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Sugar Venom",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Half Past You",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Second Skin (Ritmo Sleep Tight)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Your Side of Town",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Voicemail",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "My Own Worst Enemy",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Nobody Bet on Me",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Neon Confession",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Mama's Hands",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Talking to God",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "The Devil Pays Cash",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Night Shift",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Paper Crown",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "10 Minutes (Nueva)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Saint With a Liar's Mouth",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Buried You First",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Till Somebody Breaks",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Same Blood",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Don't Come Down Empty",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Let It Ring",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "The House Kept My Name",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "If You Knew",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Every Street",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Doing Fine",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "A Hundred Beds",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Charge It to Me",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Underlined Mercy",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Sign Mine",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "A Year in My Pocket",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Below That Note",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Keep the Deposit",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Little Brother",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Call It Mine",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Love Me on a Tuesday",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Still Stand Guard",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "The Empty Chair",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Slower Tempo",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Sorry to the Graveyard",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Dancing in the Smoke",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Watch My Six",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Woke Up in the Ashes",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Lightning First",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Where the Blue Goes",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Gets Louder",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Count Me Out",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Keep the Lights On",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Borrowed Time",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Louder Than Me",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Good in Pictures",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Almost Morning",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Ghost in the Mirror",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Category Five",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Boiling Point",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Bad Habit",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Run Back",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Dizzy",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Play It Loud",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Kerosene",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Two Left Feet",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Bad Idea",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "122",
+   "duracion": ""
+  },
+  {
+   "titulo": "Told You So",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "116",
+   "duracion": ""
+  },
+  {
+   "titulo": "Act My Age",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "140",
+   "duracion": ""
+  },
+  {
+   "titulo": "Nine Lives",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "128",
+   "duracion": ""
+  },
+  {
+   "titulo": "Payday",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "106",
+   "duracion": ""
+  },
+  {
+   "titulo": "Marquee",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "118",
+   "duracion": ""
+  },
+  {
+   "titulo": "Check Engine",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Sweet Tooth",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Bartender",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": ""
+  },
+  {
+   "titulo": "Cover Up",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "125",
+   "duracion": ""
+  },
+  {
+   "titulo": "Stay Down",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "125",
+   "duracion": ""
+  },
+  {
+   "titulo": "Blackout",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "125",
+   "duracion": ""
+  },
+  {
+   "titulo": "Racing Heart",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "142",
+   "duracion": "2:38"
+  },
+  {
+   "titulo": "All In",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "128",
+   "duracion": "2:29"
+  },
+  {
+   "titulo": "One Way",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "134",
+   "duracion": "2:38"
+  },
+  {
+   "titulo": "No Net",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "140",
+   "duracion": "2:38"
+  },
+  {
+   "titulo": "Thin Ice",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "126",
+   "duracion": "2:39"
+  },
+  {
+   "titulo": "Last Train",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "133",
+   "duracion": "2:28"
+  },
+  {
+   "titulo": "On Air",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "139",
+   "duracion": "2:21"
+  },
+  {
+   "titulo": "Rooftop",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "130",
+   "duracion": "2:21"
+  }
+ ],
+ "publicaciones": [
+  {
+   "cancion": "Sleep Tight",
+   "plataforma": "Spotify",
+   "fecha": "10/11/2026",
+   "detalle": "En vivo · DistroKid, 24 tiendas",
+   "enlace": "https://open.spotify.com/track/4ZXgGz85mxeGNxLsi260Kt",
+   "upc": "700087980560",
+   "isrc": "QTAF32623981",
+   "nota": "El 17/11/2026 la playlist «Lonely & Broke» (vía Daily Playlists) aceptó la canción."
+  },
+  {
+   "cancion": "Wide Awake",
+   "plataforma": "Pre-save (HyperFollow)",
+   "fecha": "Sale el 27/11/2026",
+   "detalle": "DistroKid · 24 tiendas · entregada · video oficial el mismo 27/11 en YouTube",
+   "enlace": "https://distrokid.com/hyperfollow/lastcall14/wide-awake",
+   "upc": "700081377557",
+   "isrc": "QTAF72609135",
+   "nota": "El día del lanzamiento sale también el envío a los curadores de playlists (Daily Playlists)."
+  },
+  {
+   "cancion": "Sleep Tight",
+   "plataforma": "YouTube — video oficial (visualizer)",
+   "fecha": "10/11/2026",
+   "detalle": "En vivo",
+   "enlace": "https://www.youtube.com/watch?v=py4pD7H1vk4",
+   "upc": "700087980560",
+   "isrc": "QTAF32623981",
+   "nota": ""
+  },
+  {
+   "cancion": "Sleep Tight",
+   "plataforma": "YouTube — lyric video",
+   "fecha": "10/11/2026",
+   "detalle": "En vivo",
+   "enlace": "https://www.youtube.com/watch?v=B5X3S4CW94U",
+   "upc": "700087980560",
+   "isrc": "QTAF32623981",
+   "nota": ""
+  },
+  {
+   "cancion": "Sleep Tight",
+   "plataforma": "SoundCloud",
+   "fecha": "10/11/2026",
+   "detalle": "También publicada",
+   "enlace": "https://soundcloud.com/lastcallofficial",
+   "upc": "700087980560",
+   "isrc": "QTAF32623981",
+   "nota": ""
+  }
+ ],
+ "calendario": [
+  {
+   "fecha": "27/11/2026",
+   "tipo": "lanzamiento",
+   "titulo": "Lanzamiento de «Wide Awake»",
+   "detalle": "Sencillo en 24 tiendas vía DistroKid · video oficial en YouTube el mismo día · envío a curadores"
+  },
+  {
+   "fecha": "18/12/2026",
+   "tipo": "lanzamiento",
+   "titulo": "Siguiente sencillo",
+   "detalle": "Cadencia de sencillos cada 3 semanas; la canción sale de tus marcas de la Sala"
+  },
+  {
+   "fecha": "08/01/2027",
+   "tipo": "lanzamiento",
+   "titulo": "Sencillo de enero",
+   "detalle": "Cadencia de sencillos cada 3 semanas"
+  },
+  {
+   "fecha": "29/01/2027",
+   "tipo": "lanzamiento",
+   "titulo": "Sencillo de enero (segundo)",
+   "detalle": "Cadencia de sencillos cada 3 semanas"
+  },
+  {
+   "fecha": "16/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 01 de «Wide Awake»",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET · ya pública"
+  },
+  {
+   "fecha": "17/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 02 de «Wide Awake»",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET · ya pública"
+  },
+  {
+   "fecha": "19/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 03 de «Wide Awake»",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET"
+  },
+  {
+   "fecha": "21/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 04 de «Wide Awake»",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET"
+  },
+  {
+   "fecha": "23/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 05 de «Wide Awake»",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET"
+  },
+  {
+   "fecha": "25/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 06 de «Wide Awake»",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET"
+  },
+  {
+   "fecha": "27/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 07 de «Wide Awake» — OUT NOW",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET · día del lanzamiento"
+  }
+ ],
+ "descartadas": []
+}
