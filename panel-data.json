@@ -2135,12 +2135,10 @@
    "tomas_detalle": [
     {
      "dur": "2:39",
-     "suno": "https://suno.com/s/JMqCjrb09jplZVEX",
      "n": 1
     },
     {
      "dur": "2:39",
-     "suno": "https://suno.com/song/869cb290-efb8-41fa-9c9a-9b8592fd6bc5",
      "n": 2
     }
    ]
@@ -2154,12 +2152,10 @@
    "tomas_detalle": [
     {
      "dur": "2:28",
-     "suno": "https://suno.com/song/a96c4576-403c-469d-a41b-dd00b52a37a0",
      "n": 1
     },
     {
      "dur": "2:28",
-     "suno": "https://suno.com/song/0f6c724e-808d-4b21-83ef-5a03b51ee343",
      "n": 2
     }
    ]
@@ -2172,13 +2168,13 @@
    "duracion": "2:21",
    "tomas_detalle": [
     {
-     "dur": "2:21",
-     "suno": "https://suno.com/song/6a5cfe78-31ba-40e6-8f6a-46c39ee37d09",
+     "dur": "3:07",
+     "suno": "https://suno.com/s/QzuxcZe1T7lVRwQo",
      "n": 1
     },
     {
-     "dur": "2:21",
-     "suno": "https://suno.com/song/d289d0d3-6213-49ca-9970-40b40284d8dd",
+     "dur": "3:43",
+     "suno": "https://suno.com/s/5QkPy9nvfH7LOvKR",
      "n": 2
     }
    ]
@@ -2191,13 +2187,13 @@
    "duracion": "2:21",
    "tomas_detalle": [
     {
-     "dur": "2:21",
-     "suno": "https://suno.com/song/d5eb47cf-6bac-4091-9d61-eb5a06b1f46d",
+     "dur": "4:03",
+     "suno": "https://suno.com/s/tF4Zzkk8eDPrXc3V",
      "n": 1
     },
     {
-     "dur": "2:21",
-     "suno": "https://suno.com/song/ce2fb6c6-c9ee-4d9c-83e5-33e3d3e7a0bf",
+     "dur": "3:18",
+     "suno": "https://suno.com/s/F7uteIt5UxgQhiYY",
      "n": 2
     }
    ]
