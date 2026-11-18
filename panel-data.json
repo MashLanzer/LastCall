@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "actualizado": "2026-11-17",
  "artista": {
   "nombre": "LAST CALL",
@@ -27,133 +27,367 @@
    "estado": "Publicada",
    "tomas": 1,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "2:52"
+    }
+   ]
   },
   {
    "titulo": "2 A.M.",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "1:52"
+    },
+    {
+     "n": 2,
+     "dur": "1:51"
+    }
+   ]
   },
   {
    "titulo": "Wide Awake",
    "estado": "Publicada",
    "tomas": 4,
    "bpm": "125",
-   "duracion": "2:29"
+   "duracion": "2:29",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "2:02"
+    },
+    {
+     "n": 2,
+     "dur": "1:49"
+    },
+    {
+     "n": 3,
+     "dur": "1:36"
+    },
+    {
+     "n": 4,
+     "dur": "1:44"
+    }
+   ]
   },
   {
    "titulo": "Red Moon",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "1:52"
+    },
+    {
+     "n": 2,
+     "dur": "2:01"
+    }
+   ]
   },
   {
    "titulo": "2 A.M. — Prueba rápida (145 bpm)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "145",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "1:52"
+    },
+    {
+     "n": 2,
+     "dur": "1:51"
+    }
+   ]
   },
   {
    "titulo": "Wide Awake — Prueba rápida (148 bpm)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "148",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "2:02"
+    },
+    {
+     "n": 2,
+     "dur": "1:49"
+    },
+    {
+     "n": 3,
+     "dur": "1:36"
+    },
+    {
+     "n": 4,
+     "dur": "1:44"
+    }
+   ]
   },
   {
    "titulo": "Red Moon — Prueba rápida (142 bpm)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "142",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "1:52"
+    },
+    {
+     "n": 2,
+     "dur": "2:01"
+    }
+   ]
   },
   {
    "titulo": "2 A.M. (v2)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "1:52"
+    },
+    {
+     "n": 2,
+     "dur": "1:51"
+    }
+   ]
   },
   {
    "titulo": "Wide Awake (v2)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "2:02"
+    },
+    {
+     "n": 2,
+     "dur": "1:49"
+    },
+    {
+     "n": 3,
+     "dur": "1:36"
+    },
+    {
+     "n": 4,
+     "dur": "1:44"
+    }
+   ]
   },
   {
    "titulo": "Red Moon (v2)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "1:52"
+    },
+    {
+     "n": 2,
+     "dur": "2:01"
+    }
+   ]
   },
   {
    "titulo": "2 A.M. (Stellar Cut)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "1:52"
+    },
+    {
+     "n": 2,
+     "dur": "1:51"
+    }
+   ]
   },
   {
    "titulo": "Wide Awake (Stellar Cut)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "2:02"
+    },
+    {
+     "n": 2,
+     "dur": "1:49"
+    },
+    {
+     "n": 3,
+     "dur": "1:36"
+    },
+    {
+     "n": 4,
+     "dur": "1:44"
+    }
+   ]
   },
   {
    "titulo": "Red Moon (Stellar Cut)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "1:52"
+    },
+    {
+     "n": 2,
+     "dur": "2:01"
+    }
+   ]
   },
   {
    "titulo": "2 A.M. (Stellar Cut Full)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "1:52"
+    },
+    {
+     "n": 2,
+     "dur": "1:51"
+    }
+   ]
   },
   {
    "titulo": "Wide Awake (Stellar Cut Full)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "2:02"
+    },
+    {
+     "n": 2,
+     "dur": "1:49"
+    },
+    {
+     "n": 3,
+     "dur": "1:36"
+    },
+    {
+     "n": 4,
+     "dur": "1:44"
+    }
+   ]
   },
   {
    "titulo": "Red Moon (Stellar Cut Full)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "1:52"
+    },
+    {
+     "n": 2,
+     "dur": "2:01"
+    }
+   ]
   },
   {
    "titulo": "2 A.M. (Stellar Cut Full v2)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "1:52"
+    },
+    {
+     "n": 2,
+     "dur": "1:51"
+    }
+   ]
   },
   {
    "titulo": "Wide Awake (Stellar Cut Full v2)",
    "estado": "En producción",
    "tomas": 2,
    "bpm": "125",
-   "duracion": "2:29"
+   "duracion": "2:29",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "2:02"
+    },
+    {
+     "n": 2,
+     "dur": "1:49"
+    },
+    {
+     "n": 3,
+     "dur": "1:36"
+    },
+    {
+     "n": 4,
+     "dur": "1:44"
+    }
+   ]
   },
   {
    "titulo": "Red Moon (Stellar Cut Full v2)",
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "1:52"
+    },
+    {
+     "n": 2,
+     "dur": "2:01"
+    }
+   ]
   },
   {
    "titulo": "Static",
@@ -181,7 +415,17 @@
    "estado": "Bancada",
    "tomas": 2,
    "bpm": "",
-   "duracion": ""
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "n": 1,
+     "dur": "1:52"
+    },
+    {
+     "n": 2,
+     "dur": "2:01"
+    }
+   ]
   },
   {
    "titulo": "On Read",
@@ -941,5 +1185,121 @@
    "detalle": "Serie promocional en YouTube Shorts · 19:00 ET · día del lanzamiento"
   }
  ],
- "descartadas": []
+ "descartadas": [],
+ "detalle_publicadas": {
+  "Sleep Tight": {
+   "letra": "# Not a literal translation: re-metered for English phrasing. Hook twists the traditional \"good night, sleep tight, don't let the bedbugs bite\" rhyme (public domain) — same move as the Spanish lullaby version.\n\n[Intro]\n(whispered) Sleep tight… here comes the wolf…\n\n[Verse 1]\nShe walks in silent, honey in her eyes,\ntastes like sweet danger, poison in disguise.\nThey told me \"run\" — and I chose to stay:\nsome loves are fire, and I like the flame.\n\n[Pre-Chorus]\nIf heaven wants to punish me for wanting her this way,\nwrite my name on the list — I signed it anyway.\n\n[Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and I'll wait by the door.\n\n[Verse 2]\nShe's got a map of sins written down her back,\nevery kiss a debt that I can't pay back.\nIf I get lost in her woods, don't come find me:\nsome cages have open doors and you still can't leave.\n\n[Pre-Chorus]\nIf heaven wants to punish me for wanting her this way,\nwrite my name on the list — I signed it anyway.\n\n[Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and I'll wait by the door.\n\n[Bridge]\nIf this is a story, it ends in the dark —\nbut nobody sleeps wanting to wake up.\n(whispered) Sleep tight…\n\n[Final Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.",
+   "datos": [
+    [
+     "Publicada",
+     "10/11/2026"
+    ],
+    [
+     "Plataformas",
+     "24 (Spotify, Apple Music, YouTube Music y más)"
+    ],
+    [
+     "UPC",
+     "700087980560"
+    ],
+    [
+     "ISRC",
+     "QTAF32623981"
+    ],
+    [
+     "Distribuidora",
+     "DistroKid"
+    ]
+   ],
+   "estadisticas": [
+    [
+     "Video oficial (YouTube)",
+     "97 vistas · 17/11/2026"
+    ],
+    [
+     "Lyric Video (YouTube)",
+     "97 vistas · 17/11/2026"
+    ],
+    [
+     "Curadores",
+     "Aprobada por «Lonely & Broke» (Daily Playlists, 17/11)"
+    ],
+    [
+     "Canvas de Spotify",
+     "Lobo y luna (HyperFrames) — en vivo desde el 17/11"
+    ]
+   ],
+   "enlaces": [
+    [
+     "Spotify — la canción",
+     "https://open.spotify.com/track/4ZXgGz85mxeGNxLsi260Kt"
+    ],
+    [
+     "Video oficial (YouTube)",
+     "https://www.youtube.com/watch?v=py4pD7H1vk4"
+    ],
+    [
+     "Lyric Video (YouTube)",
+     "https://www.youtube.com/watch?v=B5X3S4CW94U"
+    ],
+    [
+     "SoundCloud",
+     "https://soundcloud.com/lastcallofficial"
+    ]
+   ]
+  },
+  "Wide Awake": {
+   "letra": "# Receta: dark pop tipo Stellar — Fa menor, 130 BPM, voz pop suave con falsete, Persona «Voz Dark ML».\n# Estado: letra aprobada para generar tomas de escucha; SIN subir a DistroKid sin aprobación expresa de Brayan.\n\n[Verse 1]\nI sang you off to sleep each night\nNow the song is stuck in me\nCounting cracks up on the ceiling\nWhere your shadow used to be\n\n[Pre-Chorus]\nThe moon is red, the house is cold\nI did this — or so I'm told\n\n[Chorus]\nNow I'm wide awake\nWhile you're sleeping fine\nI gave you all my dreams\nAnd you took your time\nNow I'm wide awake\nWith the mess we made\nSleep tight, love —\nI'm the one who pays\n\n[Verse 2]\nYour pillow still remembers you\nBetter than I ever will\nI close my eyes, you're standing there\nQuiet, darker, still\n\n[Bridge]\nHush now, don't you cry\nThat's what I sang — what a lie\nHush now, close your eyes\nI'm the ghost this time",
+   "datos": [
+    [
+     "Sale",
+     "Viernes 27/11/2026 · 12:00 AM ET"
+    ],
+    [
+     "Plataformas",
+     "24 tiendas (DistroKid)"
+    ],
+    [
+     "UPC",
+     "700081377557"
+    ],
+    [
+     "ISRC",
+     "QTAF72609135"
+    ],
+    [
+     "Pre-save",
+     "Activo (HyperFollow)"
+    ],
+    [
+     "Distribuidora",
+     "DistroKid"
+    ]
+   ],
+   "estadisticas": [
+    [
+     "Video oficial",
+     "Listo — se publica el mismo día 27/11"
+    ],
+    [
+     "Serie promo",
+     "7 piezas HyperFrames (01 y 02 públicas, 03–07 programadas)"
+    ],
+    [
+     "Pitch editorial Spotify",
+     "En reintento — Spotify aún no la lista (17/11)"
+    ]
+   ],
+   "enlaces": [
+    [
+     "Pre-save (HyperFollow)",
+     "https://distrokid.com/hyperfollow/lastcall14/wide-awake"
+    ],
+    [
+     "YouTube — canal oficial",
+     "https://www.youtube.com/channel/UCSGx55RnqxXjk1WY1Lo4jYQ"
+    ]
+   ]
+  }
+ }
 }
