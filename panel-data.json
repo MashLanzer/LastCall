@@ -1,8 +1,8 @@
 {
  "version": 2,
  "actualizado": "2026-11-19",
- "revision": "2026-11-19 01:42 ET",
- "app_version_code": 13,
+ "revision": "2026-11-19 01:52 ET",
+ "app_version_code": 14,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
   "nombre": "LAST CALL",
@@ -4795,6 +4795,25 @@
     }
    ]
   }
+ },
+ "costes": {
+  "misiones": [
+   {
+    "canciones": 3,
+    "creditos": 40,
+    "fecha": "2026-11-18",
+    "mision": "Misión 8",
+    "nota": "Incluye los 10 créditos de un Create accidental",
+    "saldo": 1150
+   },
+   {
+    "canciones": 3,
+    "creditos": 30,
+    "fecha": "2026-11-19",
+    "mision": "Misión 8-B",
+    "saldo": 1120
+   }
+  ]
  },
  "detalle_publicadas": {
   "Sleep Tight": {
