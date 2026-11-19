@@ -1,6 +1,9 @@
 {
  "version": 2,
  "actualizado": "2026-11-18",
+ "revision": "2026-11-18 22:59 ET",
+ "app_version_code": 10,
+ "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
   "nombre": "LAST CALL",
   "bio": "Dark pop artist. Produced by Mashlanzer.",
@@ -13,9 +16,8 @@
  "stats": {
   "spotify_oyentes": 2,
   "youtube_subs": 7,
-  "canciones": 114,
-  "tomas": 231,
-  "youtube_vistas": 678
+  "canciones": 117,
+  "tomas": 237
  },
  "proximo_lanzamiento": {
   "titulo": "Wide Awake",
@@ -4024,8 +4026,7 @@
       "descartada": false
      }
     }
-   ],
-   "actualizado": "2026-11-18"
+   ]
   },
   {
    "titulo": "Last Train",
@@ -4127,6 +4128,111 @@
       "dislike": false,
       "produccion": false,
       "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Full Speed",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "138",
+   "duracion": "2:38",
+   "tomas_detalle": [
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/pJpqj7DtlAcIX2xd",
+     "tid": "full-speed-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:39",
+     "suno": "https://suno.com/s/GPk8DokS18tpTc3X",
+     "tid": "full-speed-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "House Rules",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "131",
+   "duracion": "2:38",
+   "tomas_detalle": [
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/YMDZu6OgvVLTD5G8",
+     "tid": "house-rules-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/wUupRdMtYdw1IaJ6",
+     "tid": "house-rules-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Sweet Talker",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "127",
+   "duracion": "2:38",
+   "tomas_detalle": [
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/ZpRuuTDW6MCJ7tll",
+     "tid": "sweet-talker-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/4pd8FzndPc7QP3A8",
+     "tid": "sweet-talker-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
       "descartada": false
      }
     }
@@ -4254,6 +4360,7 @@
   }
  ],
  "descartadas": [],
+ "decisiones_en": 1795058827309,
  "detalle_publicadas": {
   "Sleep Tight": {
    "letra": "# Not a literal translation: re-metered for English phrasing. Hook twists the traditional \"good night, sleep tight, don't let the bedbugs bite\" rhyme (public domain) — same move as the Spanish lullaby version.\n\n[Intro]\n(whispered) Sleep tight… here comes the wolf…\n\n[Verse 1]\nShe walks in silent, honey in her eyes,\ntastes like sweet danger, poison in disguise.\nThey told me \"run\" — and I chose to stay:\nsome loves are fire, and I like the flame.\n\n[Pre-Chorus]\nIf heaven wants to punish me for wanting her this way,\nwrite my name on the list — I signed it anyway.\n\n[Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and I'll wait by the door.\n\n[Verse 2]\nShe's got a map of sins written down her back,\nevery kiss a debt that I can't pay back.\nIf I get lost in her woods, don't come find me:\nsome cages have open doors and you still can't leave.\n\n[Pre-Chorus]\nIf heaven wants to punish me for wanting her this way,\nwrite my name on the list — I signed it anyway.\n\n[Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and I'll wait by the door.\n\n[Bridge]\nIf this is a story, it ends in the dark —\nbut nobody sleeps wanting to wake up.\n(whispered) Sleep tight…\n\n[Final Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.",
@@ -4369,9 +4476,5 @@
     ]
    ]
   }
- },
- "revision": "2026-11-18 22:27 ET",
- "app_version_code": 10,
- "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
- "decisiones_en": 1795058827309
+ }
 }
