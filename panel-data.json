@@ -3937,7 +3937,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -3950,7 +3950,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -3972,7 +3972,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -3985,7 +3985,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -4004,10 +4004,10 @@
      "tid": "thin-ice-t1",
      "n": 1,
      "marcas": {
-      "like": false,
+      "like": true,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4020,7 +4020,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -4040,10 +4040,10 @@
      "tid": "last-train-t1",
      "n": 1,
      "marcas": {
-      "like": false,
+      "like": true,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4056,7 +4056,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -4078,7 +4078,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4091,7 +4091,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -4113,7 +4113,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4126,7 +4126,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -4370,8 +4370,8 @@
    ]
   }
  },
- "revision": "2026-11-18 22:06 ET",
+ "revision": "2026-11-18 22:27 ET",
  "app_version_code": 10,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
- "decisiones_en": 1795057593340
+ "decisiones_en": 1795058827309
 }
