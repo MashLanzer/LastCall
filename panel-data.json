@@ -3902,7 +3902,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -3915,7 +3915,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -4370,8 +4370,8 @@
    ]
   }
  },
- "revision": "2026-11-18 21:38 ET",
+ "revision": "2026-11-18 21:53 ET",
  "app_version_code": 9,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
- "decisiones_en": 1795055872893
+ "decisiones_en": 1795056819863
 }
