@@ -1,1 +1,4377 @@
-{"version": 3, "actualizado": "2026-11-18", "artista": {"nombre": "LAST CALL", "bio": "Dark pop artist. Produced by Mashlanzer.", "spotify": "https://open.spotify.com/artist/7JXoT1wLvknTMi9D7Z0tc5", "youtube": "https://www.youtube.com/channel/UCSGx55RnqxXjk1WY1Lo4jYQ", "web": "https://mashlanzer.github.io/LastCall/", "hyperfollow": "https://distrokid.com/hyperfollow/lastcall14/wide-awake", "instagram": "https://www.instagram.com/mashlanzer.new/"}, "stats": {"spotify_oyentes": 2, "youtube_subs": 7, "canciones": 114, "tomas": 231, "youtube_vistas": 678}, "proximo_lanzamiento": {"titulo": "Wide Awake", "fecha_iso": "2026-11-27", "texto": "Sale el viernes 27/11/2026 · 24 tiendas · video oficial el mismo día"}, "canciones": [{"titulo": "Sleep Tight", "estado": "Publicada", "tomas": 1, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:52", "n": 1}]}, {"titulo": "2 A.M.", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "1:52", "n": 1}, {"dur": "1:51", "n": 2}]}, {"titulo": "Wide Awake", "estado": "Publicada", "tomas": 4, "bpm": "125", "duracion": "2:29", "tomas_detalle": [{"dur": "2:02", "n": 1}, {"dur": "1:49", "n": 2}, {"dur": "1:36", "n": 3}, {"dur": "1:44", "n": 4}]}, {"titulo": "Red Moon", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "1:52", "n": 1}, {"dur": "2:01", "n": 2}]}, {"titulo": "2 A.M. — Prueba rápida (145 bpm)", "estado": "Bancada", "tomas": 2, "bpm": "145", "duracion": "", "tomas_detalle": [{"dur": "1:52", "n": 1}, {"dur": "1:51", "n": 2}]}, {"titulo": "Wide Awake — Prueba rápida (148 bpm)", "estado": "Bancada", "tomas": 2, "bpm": "148", "duracion": "", "tomas_detalle": [{"dur": "2:02", "n": 1}, {"dur": "1:49", "n": 2}, {"dur": "1:36", "n": 3}, {"dur": "1:44", "n": 4}]}, {"titulo": "Red Moon — Prueba rápida (142 bpm)", "estado": "Bancada", "tomas": 2, "bpm": "142", "duracion": "", "tomas_detalle": [{"dur": "1:52", "n": 1}, {"dur": "2:01", "n": 2}]}, {"titulo": "2 A.M. (v2)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "1:52", "n": 1}, {"dur": "1:51", "n": 2}]}, {"titulo": "Wide Awake (v2)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:02", "n": 1}, {"dur": "1:49", "n": 2}, {"dur": "1:36", "n": 3}, {"dur": "1:44", "n": 4}]}, {"titulo": "Red Moon (v2)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "1:52", "n": 1}, {"dur": "2:01", "n": 2}]}, {"titulo": "2 A.M. (Stellar Cut)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "1:52", "n": 1}, {"dur": "1:51", "n": 2}]}, {"titulo": "Wide Awake (Stellar Cut)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:02", "n": 1}, {"dur": "1:49", "n": 2}, {"dur": "1:36", "n": 3}, {"dur": "1:44", "n": 4}]}, {"titulo": "Red Moon (Stellar Cut)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "1:52", "n": 1}, {"dur": "2:01", "n": 2}]}, {"titulo": "2 A.M. (Stellar Cut Full)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "1:52", "n": 1}, {"dur": "1:51", "n": 2}]}, {"titulo": "Wide Awake (Stellar Cut Full)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:02", "n": 1}, {"dur": "1:49", "n": 2}, {"dur": "1:36", "n": 3}, {"dur": "1:44", "n": 4}]}, {"titulo": "Red Moon (Stellar Cut Full)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "1:52", "n": 1}, {"dur": "2:01", "n": 2}]}, {"titulo": "2 A.M. (Stellar Cut Full v2)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "1:52", "n": 1}, {"dur": "1:51", "n": 2}]}, {"titulo": "Wide Awake (Stellar Cut Full v2)", "estado": "En producción", "tomas": 2, "bpm": "125", "duracion": "2:29", "tomas_detalle": [{"dur": "2:02", "n": 1}, {"dur": "1:49", "n": 2}, {"dur": "1:36", "n": 3}, {"dur": "1:44", "n": 4}]}, {"titulo": "Red Moon (Stellar Cut Full v2)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "1:52", "n": 1}, {"dur": "2:01", "n": 2}]}, {"titulo": "Static", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/046f6439-cad0-48db-b761-f1115fcfc6c5", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/669b4d17-8569-460e-899c-b031f97aede6", "n": 2}]}, {"titulo": "Porcelain", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/cc9aff99-0759-43ce-97ee-3692ffa761f0", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/song/8b27dfb1-bcfc-4450-a3f6-44c93aa9c4df", "n": 2}]}, {"titulo": "Ultraviolet", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/0e4e9552-253e-4a08-a2ec-170358277c7c", "n": 1}, {"dur": "2:31", "suno": "https://suno.com/song/864125e8-ce53-4dc7-83b4-0bf9959e1f50", "n": 2}]}, {"titulo": "Red Moon (Nueva)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "1:52", "n": 1}, {"dur": "2:01", "n": 2}]}, {"titulo": "On Read", "estado": "Bancada", "tomas": 4, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/12f88391-c4f2-461f-a50c-9cefa3b5c7a0", "n": 1}, {"dur": "1:07", "suno": "https://suno.com/song/7191aea3-5620-498b-81a8-9b936eedddef", "n": 2}, {"dur": "2:29", "suno": "https://suno.com/song/45e23291-b5f2-400b-84ac-d2cdc0accabe", "n": 3}, {"dur": "2:29", "suno": "https://suno.com/song/deae369b-6fe0-4c72-a1c3-163a1ab6990b", "n": 4}]}, {"titulo": "Plastic Halo", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/5304eff4-299f-4ae2-ad55-0ce4b86449e7", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/song/d27c4460-7905-47ba-96db-9a89cf62eb20", "n": 2}]}, {"titulo": "Paper Mask", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/song/627b93db-0484-4dcc-852e-751fb5695ec1", "n": 1}, {"dur": "2:31", "suno": "https://suno.com/song/e1f2a065-99a9-49e1-99d7-2a64884e1297", "n": 2}]}, {"titulo": "10 Minutes", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:31", "suno": "https://suno.com/song/9bb6a82f-c056-4fc6-896b-6f878c7640e4", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/e99ccb82-05c1-4dea-8396-f0143512eb2a", "n": 2}]}, {"titulo": "Static (Nueva)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/046f6439-cad0-48db-b761-f1115fcfc6c5", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/669b4d17-8569-460e-899c-b031f97aede6", "n": 2}]}, {"titulo": "Porcelain (Nueva)", "estado": "Te gusta", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/cc9aff99-0759-43ce-97ee-3692ffa761f0", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/song/8b27dfb1-bcfc-4450-a3f6-44c93aa9c4df", "n": 2}]}, {"titulo": "Voltage", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:31", "suno": "https://suno.com/song/757336fe-3c06-45e3-8c38-c28d04df551a", "n": 1}, {"dur": "2:25", "suno": "https://suno.com/song/a56335a1-6156-474e-957f-7b04d469a308", "n": 2}]}, {"titulo": "Porcelain (Nuestra voz)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/cc9aff99-0759-43ce-97ee-3692ffa761f0", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/song/8b27dfb1-bcfc-4450-a3f6-44c93aa9c4df", "n": 2}]}, {"titulo": "My Jacket", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/0224c50b-64eb-43ba-a503-eb89ee1ba962", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/song/b94e181f-7d67-4625-8ad5-57772f48c379", "n": 2}]}, {"titulo": "Tag, You're It (Receta Sleep Tight)", "estado": "Te gusta", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/cee60595-d451-42c4-85cf-f268966afc30", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/7f0039f4-e277-4fa9-a53a-30249d13545e", "n": 2}]}, {"titulo": "Second Skin (Receta Wide Awake)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/9e65a21d-e146-4358-9d47-5b837d95110d", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/f96e6ef7-3948-45ec-bfef-12e56924c87d", "n": 2}]}, {"titulo": "Cheap Perfume", "estado": "Te gusta", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/song/0c8252c6-453a-446f-912d-ba96b16e3b3f", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/song/d9324316-c11a-4667-854a-d0baae6bef79", "n": 2}]}, {"titulo": "Sugar Venom", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/song/e55e8460-ac01-41c7-a092-ac8f1bc43048", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/b42db629-757c-4f6d-b110-8cba08314a89", "n": 2}]}, {"titulo": "Half Past You", "estado": "Te gusta", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/b9c8b314-aafb-462e-abc3-b43c94bd2839", "n": 1}, {"dur": "1:16", "suno": "https://suno.com/song/3f643c6d-6283-4fb4-9671-7fa70a489739", "n": 2}]}, {"titulo": "Second Skin (Ritmo Sleep Tight)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/9e65a21d-e146-4358-9d47-5b837d95110d", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/f96e6ef7-3948-45ec-bfef-12e56924c87d", "n": 2}]}, {"titulo": "Your Side of Town", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "1:15", "suno": "https://suno.com/s/MnKTjLKm49a9JcKH", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/qUjq1aBiQoLc5Jkj", "n": 2}]}, {"titulo": "Voicemail", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/s/6CQefC5ACqyELbZn", "n": 1}, {"dur": "1:19", "suno": "https://suno.com/s/177n1b8OhOHurY2O", "n": 2}]}, {"titulo": "My Own Worst Enemy", "estado": "Te gusta", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/XI2j9HhgVfxZkCOf", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/ToVHyyvd39jCIK4B", "n": 2}]}, {"titulo": "Nobody Bet on Me", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:28", "suno": "https://suno.com/s/yDVgMkSDWNmsiOPQ", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/inL3oBgAoEHGUP5R", "n": 2}]}, {"titulo": "Neon Confession", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/U5EOPJXA9YSlO5Kg", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/7J10UzP3BojmViJf", "n": 2}]}, {"titulo": "Mama's Hands", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/iXsUvYBBohwrqNA5", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/RCRJG86dY7cpnAtS", "n": 2}]}, {"titulo": "Talking to God", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/0MRJeNwTalhGvX6K", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/D3XResbOpPJkfKiV", "n": 2}]}, {"titulo": "The Devil Pays Cash", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/s/SomO5GKPmepxvMij", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/MgTiTs3NBZYl1grM", "n": 2}]}, {"titulo": "Night Shift", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/s/aXbRh7tex74y1JW4", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/sYkbtnObhGf4yc6G", "n": 2}]}, {"titulo": "Paper Crown", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/s/F68XqfBzPih3v1iK", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/FfcIn1F2o9tvb6TF", "n": 2}]}, {"titulo": "10 Minutes (Nueva)", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:31", "suno": "https://suno.com/song/9bb6a82f-c056-4fc6-896b-6f878c7640e4", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/e99ccb82-05c1-4dea-8396-f0143512eb2a", "n": 2}]}, {"titulo": "Saint With a Liar's Mouth", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/KOOJwLKvhYuDObLk", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/HlqMxhgJnjQQyKF5", "n": 2}]}, {"titulo": "Buried You First", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/FaIjqao0EuhlwUpv", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/FdQfxHxMBAVQoOnC", "n": 2}]}, {"titulo": "Till Somebody Breaks", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/42AndcWrL9eGxDMp", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/b5p0HtMqjZhIt8q0", "n": 2}]}, {"titulo": "Same Blood", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/C7By9YGtFl6dC27F", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/UuPzxl3fYAcmbTWx", "n": 2}]}, {"titulo": "Don't Come Down Empty", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/s/lGSjabHT6geHs2sH", "n": 1}, {"dur": "2:32", "suno": "https://suno.com/s/DEGcYzZMg3MmsxA5", "n": 2}]}, {"titulo": "Let It Ring", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:31", "suno": "https://suno.com/s/5ygsTTPBC0xLPAkh", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/w11fjvp2DzpeYK4G", "n": 2}]}, {"titulo": "The House Kept My Name", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:31", "suno": "https://suno.com/s/Eg6uP8CTmiPJPDQR", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/9Ey3CWUIFKwftvYG", "n": 2}]}, {"titulo": "If You Knew", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:31", "suno": "https://suno.com/s/CZk1AN8Bzus9l8Ye", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/2IMmFlptSxWGufjg", "n": 2}]}, {"titulo": "Every Street", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/ikk9iEWv0XIx9PvL", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/ok1F5v7jmwHaMgkc", "n": 2}]}, {"titulo": "Doing Fine", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/XhGjRJKVSWSVqNan", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/lkkBY9suNt2qZN6w", "n": 2}]}, {"titulo": "A Hundred Beds", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/CKqR7S3tAzGM3unA", "n": 1}, {"dur": "2:28", "suno": "https://suno.com/s/UG6ZNueHeyGnIz14", "n": 2}]}, {"titulo": "Charge It to Me", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/BEHVgICrsEZgMt36", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/UDVgw47F0LWvwwuP", "n": 2}]}, {"titulo": "Underlined Mercy", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/Y47w6UU0Y0K3YK5L", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/qVI65TG5kXhLlHRW", "n": 2}]}, {"titulo": "Sign Mine", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/s/dTBldE02UVGm1nea", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/qNYFbrIAvhPMdivr", "n": 2}]}, {"titulo": "A Year in My Pocket", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/s/kGI3mPmlOlpML4xj", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/DR6eWVUVZZki8IyT", "n": 2}]}, {"titulo": "Below That Note", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:31", "suno": "https://suno.com/s/OqYsbh7foibM5QsY", "n": 1}, {"dur": "2:31", "suno": "https://suno.com/s/wxqt9Q8qHLW8hD8V", "n": 2}]}, {"titulo": "Keep the Deposit", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/WOcxDhSYa00YGbgF", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/wkrXVlr7laYiwJo4", "n": 2}]}, {"titulo": "Little Brother", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/slRVkvX1QiuAr7zR", "n": 1}, {"dur": "2:28", "suno": "https://suno.com/s/IP2QMhCKTtHJ7v2X", "n": 2}]}, {"titulo": "Call It Mine", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/S8a6opTQ2nVOEkXT", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/S6OVB9E7L8nFiIt5", "n": 2}]}, {"titulo": "Love Me on a Tuesday", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:28", "suno": "https://suno.com/s/7MgVS6H2Za0OOmJa", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/UWMorTkSbd1PKCyC", "n": 2}]}, {"titulo": "Still Stand Guard", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/yWYeCjQCcXSHhCkE", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/MKaimv6E8MHdYwZ5", "n": 2}]}, {"titulo": "The Empty Chair", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:31", "suno": "https://suno.com/s/qsb1BjoncLHBnjPD", "n": 1}, {"dur": "2:31", "suno": "https://suno.com/s/EnwQkjrZQPvY9JhD", "n": 2}]}, {"titulo": "Slower Tempo", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/s8RKzXzFhplh0hW3", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/yn3xQvK2soeHIHSP", "n": 2}]}, {"titulo": "Sorry to the Graveyard", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/PROfO6fFebZ7Xdx4", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/Sd1q05N0OXZyk783", "n": 2}]}, {"titulo": "Dancing in the Smoke", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/HZM4OYZwin3ED2Vg", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/RCQhqTwcSn2wWEo8", "n": 2}]}, {"titulo": "Watch My Six", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/s/ssZVi2PVTqXsICIrok", "n": 1}, {"dur": "2:45", "suno": "https://suno.com/s/JtiF05ihTUk2zCzb", "n": 2}]}, {"titulo": "Woke Up in the Ashes", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/s/Qz6uSPb6nOPFjCv8", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/7hnuz0AVXa3jSbai", "n": 2}]}, {"titulo": "Lightning First", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/ezTXIJLbgULkFI7nok", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/rGIFROD8fJRaESpM", "n": 2}]}, {"titulo": "Where the Blue Goes", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:27", "suno": "https://suno.com/s/ANsheJSJcU0iKsU7", "n": 1}, {"dur": "2:31", "suno": "https://suno.com/s/wkzGyk2kjE8l9s9H", "n": 2}]}, {"titulo": "Gets Louder", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:28", "suno": "https://suno.com/s/mxObtdqTCzQZdRZW", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/3EouqmRGrgV8JFDe", "n": 2}]}, {"titulo": "Count Me Out", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/94744f02-dcb9-49d4-94a8-cd6f5046d11e", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/f0d70e01-a7b6-4964-a6c3-c97e083cc98d", "n": 2}]}, {"titulo": "Keep the Lights On", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/song/b1a67b08-40ac-4038-82b3-79dfeb2e2a01", "n": 1}, {"dur": "2:32", "suno": "https://suno.com/song/8c51b78a-2e88-4b09-81ed-7e8e9de4521f", "n": 2}]}, {"titulo": "Borrowed Time", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/ffd93b2e-7646-4d2c-8e26-de3d7de0cc8e", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/c9da10cc-59a7-44ea-bdf1-a1058631197c", "n": 2}]}, {"titulo": "Louder Than Me", "estado": "Te gusta", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/000cbb93-ab4c-4d44-b25e-3af84beda1bd", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/2b2faf81-2b00-4180-99f9-fe87d74f4299", "n": 2}]}, {"titulo": "Good in Pictures", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/7a54fd1f-4924-456f-a605-5f37a37c42d0", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/75a8bb86-d229-41ba-ab0f-d703d308e3b7", "n": 2}]}, {"titulo": "Almost Morning", "estado": "Te gusta", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/2fced368-bc72-476f-b376-7e61e79194a8", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/song/dd83a426-28e7-459e-a8e6-e55226296c7a", "n": 2}]}, {"titulo": "Ghost in the Mirror", "estado": "Te gusta", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:26", "suno": "https://suno.com/song/904af8f5-a9e2-464e-a2a3-6ff76a540402", "n": 1}, {"dur": "2:20", "suno": "https://suno.com/song/d9c04e7b-9ff9-450a-a5ea-870f43246945", "n": 2}]}, {"titulo": "Category Five", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:32", "suno": "https://suno.com/song/0f0bbb34-e7f1-41e6-92fe-a432d1703438", "n": 1}, {"dur": "2:31", "suno": "https://suno.com/song/7cf46ab3-e4c8-4f25-8fcc-000d33045a18", "n": 2}]}, {"titulo": "Boiling Point", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/song/006278af-3d47-40ac-a067-25663ccd75d0", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/song/93b91be6-c5dc-49b4-a63c-770af7b7f672", "n": 2}]}, {"titulo": "Bad Habit", "estado": "Te gusta", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/song/0e386a2d-443f-4f0e-95ed-f39764eb4f64", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/78a078d4-303e-4321-8a59-d234ed30dd9b", "n": 2}]}, {"titulo": "Run Back", "estado": "Te gusta", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/e43b0a77-74ec-4224-baf3-49a7611c757b", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/song/4481a6c1-5829-4d14-be70-5da518ae198f", "n": 2}]}, {"titulo": "Dizzy", "estado": "Te gusta", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/2fe05088-c481-4392-902d-e3a6abe2a95e", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/song/4cafb958-3c22-4f78-8466-858881898e7a", "n": 2}]}, {"titulo": "Play It Loud", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/5136707a-455c-4530-ab08-728ddff42705", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/song/d465bd2b-be8f-48e6-be80-489dceff4982", "n": 2}]}, {"titulo": "Kerosene", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:31", "suno": "https://suno.com/song/6e295666-56d5-457a-86e0-a729335a0363", "n": 1}, {"dur": "2:31", "suno": "https://suno.com/song/f2f2cba6-b12d-4efe-a900-f9a130fe564d", "n": 2}]}, {"titulo": "Two Left Feet", "estado": "Te gusta", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/song/12799ebd-873e-448f-a61e-9871630aebe9", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/song/391dc1df-0410-4742-a903-8896e2f4069c", "n": 2}]}, {"titulo": "Bad Idea", "estado": "Bancada", "tomas": 2, "bpm": "122", "duracion": "", "tomas_detalle": [{"dur": "2:31", "suno": "https://suno.com/s/11ySkS7qPFAPo1ep", "n": 1}, {"dur": "2:38", "suno": "https://suno.com/s/DjCyZcl3ORYJDYFX", "n": 2}]}, {"titulo": "Told You So", "estado": "Bancada", "tomas": 2, "bpm": "116", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/Mgl8TO7KQWmSvmMi", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/5yBClIdLRr1HfSSE", "n": 2}]}, {"titulo": "Act My Age", "estado": "Bancada", "tomas": 2, "bpm": "140", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/1UTCp9ECLj7rujeS", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/D9PiB58JfsPkqvq6", "n": 2}]}, {"titulo": "Nine Lives", "estado": "Bancada", "tomas": 2, "bpm": "128", "duracion": "", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/s/1QLq2O4ds92aLqFD", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/ablozCrbljuV7oCa", "n": 2}]}, {"titulo": "Payday", "estado": "Bancada", "tomas": 2, "bpm": "106", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/hrcctCyuUgNNhGJS", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/TScX3pVCKEoSMB1n", "n": 2}]}, {"titulo": "Marquee", "estado": "Bancada", "tomas": 2, "bpm": "118", "duracion": "", "tomas_detalle": [{"dur": "2:31", "suno": "https://suno.com/s/AaHNFLO4WSrerTMJ", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/0VqJe4Kp7JzMJqkh", "n": 2}]}, {"titulo": "Check Engine", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:38", "suno": "https://suno.com/s/sPE2o4LZWJ0TdJFg", "n": 1}, {"dur": "2:38", "suno": "https://suno.com/s/BWTNknjsv1zufgIW", "n": 2}]}, {"titulo": "Sweet Tooth", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:38", "suno": "https://suno.com/s/734Im875rNalhAqN", "n": 1}, {"dur": "2:38", "suno": "https://suno.com/s/d0mi8teeyxzMrXTR", "n": 2}]}, {"titulo": "Bartender", "estado": "Bancada", "tomas": 2, "bpm": "", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/Jb2NtL1eopM3QZ8D", "n": 1}, {"dur": "2:38", "suno": "https://suno.com/s/sJSQ5kvnSFYQa6lN", "n": 2}]}, {"titulo": "Cover Up", "estado": "Bancada", "tomas": 2, "bpm": "125", "duracion": "", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/2JmukA9PkqTMBIfi", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/NCmiyMdZf3KnrO1T", "n": 2}]}, {"titulo": "Stay Down", "estado": "Bancada", "tomas": 2, "bpm": "125", "duracion": "", "tomas_detalle": [{"dur": "2:38", "suno": "https://suno.com/s/eA3RCqZYuPMEVKOL", "n": 1}, {"dur": "2:38", "suno": "https://suno.com/s/nqnChXwNlQEDyNPo", "n": 2}]}, {"titulo": "Blackout", "estado": "Te gusta", "tomas": 2, "bpm": "125", "duracion": "", "tomas_detalle": [{"dur": "2:38", "suno": "https://suno.com/s/hEm00DS0cks3Woo9", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/zRFgB8JS63z6pASW", "n": 2}]}, {"titulo": "Racing Heart", "estado": "Te gusta", "tomas": 2, "bpm": "142", "duracion": "2:38", "tomas_detalle": [{"dur": "2:38", "suno": "https://suno.com/s/771yQdBTTlxi7hdT", "n": 1}, {"dur": "2:38", "suno": "https://suno.com/s/tUXnUXu0CjKyRFUr", "n": 2}]}, {"titulo": "All In", "estado": "En la Sala", "tomas": 2, "bpm": "128", "duracion": "2:29", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/uD0NmybhcEkhDH97", "n": 1}, {"dur": "2:31", "suno": "https://suno.com/s/U9ousJmSEKLcTcal", "n": 2}]}, {"titulo": "One Way", "estado": "En la Sala", "tomas": 2, "bpm": "134", "duracion": "2:38", "tomas_detalle": [{"dur": "2:38", "suno": "https://suno.com/s/ONxsVjBBCGrQJ4DS", "n": 1}, {"dur": "2:39", "suno": "https://suno.com/s/4hsi17OZthAA8UGm", "n": 2}]}, {"titulo": "No Net", "estado": "En la Sala", "tomas": 2, "bpm": "140", "duracion": "2:38", "tomas_detalle": [{"dur": "2:38", "suno": "https://suno.com/s/AsHiJ5jgYEOgjxnu", "n": 1}, {"dur": "2:29", "suno": "https://suno.com/s/Hf5f6hB7lNIa5cf5", "n": 2}]}, {"titulo": "Thin Ice", "estado": "En la Sala", "tomas": 2, "bpm": "126", "duracion": "2:29", "tomas_detalle": [{"dur": "2:29", "suno": "https://suno.com/s/OUspETz3te3rdteM", "n": 1}, {"dur": "2:30", "suno": "https://suno.com/s/MtC6ZEkJazwS6uzy", "n": 2}], "actualizado": "2026-11-18"}, {"titulo": "Last Train", "estado": "En la Sala", "tomas": 2, "bpm": "133", "duracion": "2:30", "tomas_detalle": [{"dur": "2:30", "suno": "https://suno.com/s/No3CgehNrk62fLiV", "n": 1}, {"dur": "2:31", "suno": "https://suno.com/s/aZVZjC8Bz5vtZDeU", "n": 2}]}, {"titulo": "On Air", "estado": "En la Sala", "tomas": 2, "bpm": "139", "duracion": "3:07", "tomas_detalle": [{"dur": "3:07", "suno": "https://suno.com/s/QzuxcZe1T7lVRwQo", "n": 1}, {"dur": "3:43", "suno": "https://suno.com/s/5QkPy9nvfH7LOvKR", "n": 2}]}, {"titulo": "Rooftop", "estado": "En la Sala", "tomas": 2, "bpm": "130", "duracion": "4:03", "tomas_detalle": [{"dur": "4:03", "suno": "https://suno.com/s/tF4Zzkk8eDPrXc3V", "n": 1}, {"dur": "3:18", "suno": "https://suno.com/s/F7uteIt5UxgQhiYY", "n": 2}]}], "publicaciones": [{"cancion": "Sleep Tight", "plataforma": "Spotify", "fecha": "10/11/2026", "detalle": "En vivo · DistroKid, 24 tiendas", "enlace": "https://open.spotify.com/track/4ZXgGz85mxeGNxLsi260Kt", "upc": "700087980560", "isrc": "QTAF32623981", "nota": "El 17/11/2026 la playlist «Lonely & Broke» (vía Daily Playlists) aceptó la canción."}, {"cancion": "Wide Awake", "plataforma": "Pre-save (HyperFollow)", "fecha": "Sale el 27/11/2026", "detalle": "DistroKid · 24 tiendas · entregada · video oficial el mismo 27/11 en YouTube", "enlace": "https://distrokid.com/hyperfollow/lastcall14/wide-awake", "upc": "700081377557", "isrc": "QTAF72609135", "nota": "El día del lanzamiento sale también el envío a los curadores de playlists (Daily Playlists)."}, {"cancion": "Sleep Tight", "plataforma": "YouTube — video oficial (visualizer)", "fecha": "10/11/2026", "detalle": "En vivo", "enlace": "https://www.youtube.com/watch?v=py4pD7H1vk4", "upc": "700087980560", "isrc": "QTAF32623981", "nota": ""}, {"cancion": "Sleep Tight", "plataforma": "YouTube — lyric video", "fecha": "10/11/2026", "detalle": "En vivo", "enlace": "https://www.youtube.com/watch?v=B5X3S4CW94U", "upc": "700087980560", "isrc": "QTAF32623981", "nota": ""}, {"cancion": "Sleep Tight", "plataforma": "SoundCloud", "fecha": "10/11/2026", "detalle": "También publicada", "enlace": "https://soundcloud.com/lastcallofficial", "upc": "700087980560", "isrc": "QTAF32623981", "nota": ""}], "calendario": [{"fecha": "27/11/2026", "tipo": "lanzamiento", "titulo": "Lanzamiento de «Wide Awake»", "detalle": "Sencillo en 24 tiendas vía DistroKid · video oficial en YouTube el mismo día · envío a curadores"}, {"fecha": "18/12/2026", "tipo": "lanzamiento", "titulo": "Siguiente sencillo", "detalle": "Cadencia de sencillos cada 3 semanas; la canción sale de tus marcas de la Sala"}, {"fecha": "08/01/2027", "tipo": "lanzamiento", "titulo": "Sencillo de enero", "detalle": "Cadencia de sencillos cada 3 semanas"}, {"fecha": "29/01/2027", "tipo": "lanzamiento", "titulo": "Sencillo de enero (segundo)", "detalle": "Cadencia de sencillos cada 3 semanas"}, {"fecha": "16/11/2026", "tipo": "promocion", "titulo": "Short 01 de «Wide Awake»", "detalle": "Serie promocional en YouTube Shorts · 19:00 ET · ya pública"}, {"fecha": "17/11/2026", "tipo": "promocion", "titulo": "Short 02 de «Wide Awake»", "detalle": "Serie promocional en YouTube Shorts · 19:00 ET · ya pública"}, {"fecha": "19/11/2026", "tipo": "promocion", "titulo": "Short 03 de «Wide Awake»", "detalle": "Serie promocional en YouTube Shorts · 19:00 ET"}, {"fecha": "21/11/2026", "tipo": "promocion", "titulo": "Short 04 de «Wide Awake»", "detalle": "Serie promocional en YouTube Shorts · 19:00 ET"}, {"fecha": "23/11/2026", "tipo": "promocion", "titulo": "Short 05 de «Wide Awake»", "detalle": "Serie promocional en YouTube Shorts · 19:00 ET"}, {"fecha": "25/11/2026", "tipo": "promocion", "titulo": "Short 06 de «Wide Awake»", "detalle": "Serie promocional en YouTube Shorts · 19:00 ET"}, {"fecha": "27/11/2026", "tipo": "promocion", "titulo": "Short 07 de «Wide Awake» — OUT NOW", "detalle": "Serie promocional en YouTube Shorts · 19:00 ET · día del lanzamiento"}], "descartadas": [], "detalle_publicadas": {"Sleep Tight": {"letra": "# Not a literal translation: re-metered for English phrasing. Hook twists the traditional \"good night, sleep tight, don't let the bedbugs bite\" rhyme (public domain) — same move as the Spanish lullaby version.\n\n[Intro]\n(whispered) Sleep tight… here comes the wolf…\n\n[Verse 1]\nShe walks in silent, honey in her eyes,\ntastes like sweet danger, poison in disguise.\nThey told me \"run\" — and I chose to stay:\nsome loves are fire, and I like the flame.\n\n[Pre-Chorus]\nIf heaven wants to punish me for wanting her this way,\nwrite my name on the list — I signed it anyway.\n\n[Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and I'll wait by the door.\n\n[Verse 2]\nShe's got a map of sins written down her back,\nevery kiss a debt that I can't pay back.\nIf I get lost in her woods, don't come find me:\nsome cages have open doors and you still can't leave.\n\n[Pre-Chorus]\nIf heaven wants to punish me for wanting her this way,\nwrite my name on the list — I signed it anyway.\n\n[Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and I'll wait by the door.\n\n[Bridge]\nIf this is a story, it ends in the dark —\nbut nobody sleeps wanting to wake up.\n(whispered) Sleep tight…\n\n[Final Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.", "datos": [["Publicada", "10/11/2026"], ["Plataformas", "24 (Spotify, Apple Music, YouTube Music y más)"], ["UPC", "700087980560"], ["ISRC", "QTAF32623981"], ["Distribuidora", "DistroKid"]], "estadisticas": [["Video oficial (YouTube)", "97 vistas · 17/11/2026"], ["Lyric Video (YouTube)", "97 vistas · 17/11/2026"], ["Curadores", "Aprobada por «Lonely & Broke» (Daily Playlists, 17/11)"], ["Canvas de Spotify", "Lobo y luna (HyperFrames) — en vivo desde el 17/11"]], "enlaces": [["Spotify — la canción", "https://open.spotify.com/track/4ZXgGz85mxeGNxLsi260Kt"], ["Video oficial (YouTube)", "https://www.youtube.com/watch?v=py4pD7H1vk4"], ["Lyric Video (YouTube)", "https://www.youtube.com/watch?v=B5X3S4CW94U"], ["SoundCloud", "https://soundcloud.com/lastcallofficial"]]}, "Wide Awake": {"letra": "# Receta: dark pop tipo Stellar — Fa menor, 130 BPM, voz pop suave con falsete, Persona «Voz Dark ML».\n# Estado: letra aprobada para generar tomas de escucha; SIN subir a DistroKid sin aprobación expresa de Brayan.\n\n[Verse 1]\nI sang you off to sleep each night\nNow the song is stuck in me\nCounting cracks up on the ceiling\nWhere your shadow used to be\n\n[Pre-Chorus]\nThe moon is red, the house is cold\nI did this — or so I'm told\n\n[Chorus]\nNow I'm wide awake\nWhile you're sleeping fine\nI gave you all my dreams\nAnd you took your time\nNow I'm wide awake\nWith the mess we made\nSleep tight, love —\nI'm the one who pays\n\n[Verse 2]\nYour pillow still remembers you\nBetter than I ever will\nI close my eyes, you're standing there\nQuiet, darker, still\n\n[Bridge]\nHush now, don't you cry\nThat's what I sang — what a lie\nHush now, close your eyes\nI'm the ghost this time", "datos": [["Sale", "Viernes 27/11/2026 · 12:00 AM ET"], ["Plataformas", "24 tiendas (DistroKid)"], ["UPC", "700081377557"], ["ISRC", "QTAF72609135"], ["Pre-save", "Activo (HyperFollow)"], ["Distribuidora", "DistroKid"]], "estadisticas": [["Video oficial", "Listo — se publica el mismo día 27/11"], ["Serie promo", "7 piezas HyperFrames (01 y 02 públicas, 03–07 programadas)"], ["Pitch editorial Spotify", "En reintento — Spotify aún no la lista (17/11)"]], "enlaces": [["Pre-save (HyperFollow)", "https://distrokid.com/hyperfollow/lastcall14/wide-awake"], ["YouTube — canal oficial", "https://www.youtube.com/channel/UCSGx55RnqxXjk1WY1Lo4jYQ"]]}}, "revision": "2026-11-18 20:33 ET", "app_version_code": 8, "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk"}
+{
+ "version": 2,
+ "actualizado": "2026-11-18",
+ "artista": {
+  "nombre": "LAST CALL",
+  "bio": "Dark pop artist. Produced by Mashlanzer.",
+  "spotify": "https://open.spotify.com/artist/7JXoT1wLvknTMi9D7Z0tc5",
+  "youtube": "https://www.youtube.com/channel/UCSGx55RnqxXjk1WY1Lo4jYQ",
+  "web": "https://mashlanzer.github.io/LastCall/",
+  "hyperfollow": "https://distrokid.com/hyperfollow/lastcall14/wide-awake",
+  "instagram": "https://www.instagram.com/mashlanzer.new/"
+ },
+ "stats": {
+  "spotify_oyentes": 2,
+  "youtube_subs": 7,
+  "canciones": 114,
+  "tomas": 231,
+  "youtube_vistas": 678
+ },
+ "proximo_lanzamiento": {
+  "titulo": "Wide Awake",
+  "fecha_iso": "2026-11-27",
+  "texto": "Sale el viernes 27/11/2026 · 24 tiendas · video oficial el mismo día"
+ },
+ "canciones": [
+  {
+   "titulo": "Sleep Tight",
+   "estado": "Publicada",
+   "tomas": 1,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:52",
+     "tid": "sleep-tight-t1",
+     "n": 1,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": true,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "2 A.M.",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:52",
+     "tid": "2am-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:51",
+     "tid": "2am-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Wide Awake",
+   "estado": "Publicada",
+   "tomas": 4,
+   "bpm": "125",
+   "duracion": "2:29",
+   "tomas_detalle": [
+    {
+     "dur": "2:02",
+     "tid": "wide-awake-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:49",
+     "tid": "wide-awake-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:36",
+     "tid": "wide-awake-t3",
+     "n": 3,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:44",
+     "tid": "wide-awake-t4",
+     "n": 4,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Red Moon",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:52",
+     "tid": "red-moon-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:01",
+     "tid": "red-moon-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "2 A.M. — Prueba rápida (145 bpm)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "145",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:52",
+     "tid": "2am-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:51",
+     "tid": "2am-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Wide Awake — Prueba rápida (148 bpm)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "148",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:02",
+     "tid": "wide-awake-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:49",
+     "tid": "wide-awake-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:36",
+     "tid": "wide-awake-t3",
+     "n": 3,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:44",
+     "tid": "wide-awake-t4",
+     "n": 4,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Red Moon — Prueba rápida (142 bpm)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "142",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:52",
+     "tid": "red-moon-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:01",
+     "tid": "red-moon-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "2 A.M. (v2)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:52",
+     "tid": "2am-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:51",
+     "tid": "2am-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Wide Awake (v2)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:02",
+     "tid": "wide-awake-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:49",
+     "tid": "wide-awake-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:36",
+     "tid": "wide-awake-t3",
+     "n": 3,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:44",
+     "tid": "wide-awake-t4",
+     "n": 4,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Red Moon (v2)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:52",
+     "tid": "red-moon-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:01",
+     "tid": "red-moon-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "2 A.M. (Stellar Cut)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:52",
+     "tid": "2am-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:51",
+     "tid": "2am-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Wide Awake (Stellar Cut)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:02",
+     "tid": "wide-awake-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:49",
+     "tid": "wide-awake-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:36",
+     "tid": "wide-awake-t3",
+     "n": 3,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:44",
+     "tid": "wide-awake-t4",
+     "n": 4,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Red Moon (Stellar Cut)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:52",
+     "tid": "red-moon-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:01",
+     "tid": "red-moon-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "2 A.M. (Stellar Cut Full)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:52",
+     "tid": "2am-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:51",
+     "tid": "2am-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Wide Awake (Stellar Cut Full)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:02",
+     "tid": "wide-awake-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:49",
+     "tid": "wide-awake-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:36",
+     "tid": "wide-awake-t3",
+     "n": 3,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:44",
+     "tid": "wide-awake-t4",
+     "n": 4,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Red Moon (Stellar Cut Full)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:52",
+     "tid": "red-moon-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:01",
+     "tid": "red-moon-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "2 A.M. (Stellar Cut Full v2)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:52",
+     "tid": "2am-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:51",
+     "tid": "2am-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Wide Awake (Stellar Cut Full v2)",
+   "estado": "En producción",
+   "tomas": 2,
+   "bpm": "125",
+   "duracion": "2:29",
+   "tomas_detalle": [
+    {
+     "dur": "2:02",
+     "tid": "wide-awake-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:49",
+     "tid": "wide-awake-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:36",
+     "tid": "wide-awake-t3",
+     "n": 3,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:44",
+     "tid": "wide-awake-t4",
+     "n": 4,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Red Moon (Stellar Cut Full v2)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:52",
+     "tid": "red-moon-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:01",
+     "tid": "red-moon-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Static",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/046f6439-cad0-48db-b761-f1115fcfc6c5",
+     "tid": "static-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/669b4d17-8569-460e-899c-b031f97aede6",
+     "tid": "static-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Porcelain",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/cc9aff99-0759-43ce-97ee-3692ffa761f0",
+     "tid": "porcelain-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/8b27dfb1-bcfc-4450-a3f6-44c93aa9c4df",
+     "tid": "porcelain-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Ultraviolet",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/0e4e9552-253e-4a08-a2ec-170358277c7c",
+     "tid": "ultraviolet-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/song/864125e8-ce53-4dc7-83b4-0bf9959e1f50",
+     "tid": "ultraviolet-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Red Moon (Nueva)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:52",
+     "tid": "red-moon-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:01",
+     "tid": "red-moon-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "On Read",
+   "estado": "Bancada",
+   "tomas": 4,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/12f88391-c4f2-461f-a50c-9cefa3b5c7a0",
+     "tid": "on-read-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:07",
+     "suno": "https://suno.com/song/7191aea3-5620-498b-81a8-9b936eedddef",
+     "tid": "on-read-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/45e23291-b5f2-400b-84ac-d2cdc0accabe",
+     "tid": "on-read-reintento-t1",
+     "n": 3,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/deae369b-6fe0-4c72-a1c3-163a1ab6990b",
+     "tid": "on-read-reintento-t2",
+     "n": 4,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Plastic Halo",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/5304eff4-299f-4ae2-ad55-0ce4b86449e7",
+     "tid": "plastic-halo-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/d27c4460-7905-47ba-96db-9a89cf62eb20",
+     "tid": "plastic-halo-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Paper Mask",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/627b93db-0484-4dcc-852e-751fb5695ec1",
+     "tid": "paper-mask-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/song/e1f2a065-99a9-49e1-99d7-2a64884e1297",
+     "tid": "paper-mask-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "10 Minutes",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/song/9bb6a82f-c056-4fc6-896b-6f878c7640e4",
+     "tid": "10-minutes-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/e99ccb82-05c1-4dea-8396-f0143512eb2a",
+     "tid": "10-minutes-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Static (Nueva)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/046f6439-cad0-48db-b761-f1115fcfc6c5",
+     "tid": "static-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/669b4d17-8569-460e-899c-b031f97aede6",
+     "tid": "static-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Porcelain (Nueva)",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/cc9aff99-0759-43ce-97ee-3692ffa761f0",
+     "tid": "porcelain-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/8b27dfb1-bcfc-4450-a3f6-44c93aa9c4df",
+     "tid": "porcelain-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Voltage",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/song/757336fe-3c06-45e3-8c38-c28d04df551a",
+     "tid": "voltage-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:25",
+     "suno": "https://suno.com/song/a56335a1-6156-474e-957f-7b04d469a308",
+     "tid": "voltage-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Porcelain (Nuestra voz)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/cc9aff99-0759-43ce-97ee-3692ffa761f0",
+     "tid": "porcelain-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/8b27dfb1-bcfc-4450-a3f6-44c93aa9c4df",
+     "tid": "porcelain-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "My Jacket",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/0224c50b-64eb-43ba-a503-eb89ee1ba962",
+     "tid": "my-jacket-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/b94e181f-7d67-4625-8ad5-57772f48c379",
+     "tid": "my-jacket-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Tag, You're It (Receta Sleep Tight)",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/cee60595-d451-42c4-85cf-f268966afc30",
+     "tid": "tag-youre-it-t1",
+     "n": 1,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/7f0039f4-e277-4fa9-a53a-30249d13545e",
+     "tid": "tag-youre-it-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Second Skin (Receta Wide Awake)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/9e65a21d-e146-4358-9d47-5b837d95110d",
+     "tid": "second-skin-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/f96e6ef7-3948-45ec-bfef-12e56924c87d",
+     "tid": "second-skin-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Cheap Perfume",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/0c8252c6-453a-446f-912d-ba96b16e3b3f",
+     "tid": "cheap-perfume-t1",
+     "n": 1,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/d9324316-c11a-4667-854a-d0baae6bef79",
+     "tid": "cheap-perfume-t2",
+     "n": 2,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Sugar Venom",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/e55e8460-ac01-41c7-a092-ac8f1bc43048",
+     "tid": "sugar-venom-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/b42db629-757c-4f6d-b110-8cba08314a89",
+     "tid": "sugar-venom-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Half Past You",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/b9c8b314-aafb-462e-abc3-b43c94bd2839",
+     "tid": "half-past-you-t1",
+     "n": 1,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:16",
+     "suno": "https://suno.com/song/3f643c6d-6283-4fb4-9671-7fa70a489739",
+     "tid": "half-past-you-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Second Skin (Ritmo Sleep Tight)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/9e65a21d-e146-4358-9d47-5b837d95110d",
+     "tid": "second-skin-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/f96e6ef7-3948-45ec-bfef-12e56924c87d",
+     "tid": "second-skin-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Your Side of Town",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "1:15",
+     "suno": "https://suno.com/s/MnKTjLKm49a9JcKH",
+     "tid": "your-side-of-town-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/qUjq1aBiQoLc5Jkj",
+     "tid": "your-side-of-town-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Voicemail",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/6CQefC5ACqyELbZn",
+     "tid": "voicemail-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "1:19",
+     "suno": "https://suno.com/s/177n1b8OhOHurY2O",
+     "tid": "voicemail-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "My Own Worst Enemy",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/XI2j9HhgVfxZkCOf",
+     "tid": "my-own-worst-enemy-t1",
+     "n": 1,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/ToVHyyvd39jCIK4B",
+     "tid": "my-own-worst-enemy-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Nobody Bet on Me",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:28",
+     "suno": "https://suno.com/s/yDVgMkSDWNmsiOPQ",
+     "tid": "nobody-bet-on-me-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/inL3oBgAoEHGUP5R",
+     "tid": "nobody-bet-on-me-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Neon Confession",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/U5EOPJXA9YSlO5Kg",
+     "tid": "neon-confession-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/7J10UzP3BojmViJf",
+     "tid": "neon-confession-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Mama's Hands",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/iXsUvYBBohwrqNA5",
+     "tid": "mamas-hands-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/RCRJG86dY7cpnAtS",
+     "tid": "mamas-hands-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Talking to God",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/0MRJeNwTalhGvX6K",
+     "tid": "talking-to-god-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/D3XResbOpPJkfKiV",
+     "tid": "talking-to-god-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "The Devil Pays Cash",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/SomO5GKPmepxvMij",
+     "tid": "the-devil-pays-cash-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/MgTiTs3NBZYl1grM",
+     "tid": "the-devil-pays-cash-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Night Shift",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/aXbRh7tex74y1JW4",
+     "tid": "night-shift-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/sYkbtnObhGf4yc6G",
+     "tid": "night-shift-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Paper Crown",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/F68XqfBzPih3v1iK",
+     "tid": "paper-crown-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/FfcIn1F2o9tvb6TF",
+     "tid": "paper-crown-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "10 Minutes (Nueva)",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/song/9bb6a82f-c056-4fc6-896b-6f878c7640e4",
+     "tid": "10-minutes-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/e99ccb82-05c1-4dea-8396-f0143512eb2a",
+     "tid": "10-minutes-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Saint With a Liar's Mouth",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/KOOJwLKvhYuDObLk",
+     "tid": "saint-liars-mouth-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/HlqMxhgJnjQQyKF5",
+     "tid": "saint-liars-mouth-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Buried You First",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/FaIjqao0EuhlwUpv",
+     "tid": "buried-you-first-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/FdQfxHxMBAVQoOnC",
+     "tid": "buried-you-first-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Till Somebody Breaks",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/42AndcWrL9eGxDMp",
+     "tid": "till-somebody-breaks-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/b5p0HtMqjZhIt8q0",
+     "tid": "till-somebody-breaks-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Same Blood",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/C7By9YGtFl6dC27F",
+     "tid": "same-blood-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/UuPzxl3fYAcmbTWx",
+     "tid": "same-blood-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Don't Come Down Empty",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/lGSjabHT6geHs2sH",
+     "tid": "dont-come-down-empty-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:32",
+     "suno": "https://suno.com/s/DEGcYzZMg3MmsxA5",
+     "tid": "dont-come-down-empty-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Let It Ring",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/5ygsTTPBC0xLPAkh",
+     "tid": "let-it-ring-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/w11fjvp2DzpeYK4G",
+     "tid": "let-it-ring-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "The House Kept My Name",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/Eg6uP8CTmiPJPDQR",
+     "tid": "house-kept-my-name-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/9Ey3CWUIFKwftvYG",
+     "tid": "house-kept-my-name-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "If You Knew",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/CZk1AN8Bzus9l8Ye",
+     "tid": "if-you-knew-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/2IMmFlptSxWGufjg",
+     "tid": "if-you-knew-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Every Street",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/ikk9iEWv0XIx9PvL",
+     "tid": "every-street-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/ok1F5v7jmwHaMgkc",
+     "tid": "every-street-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Doing Fine",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/XhGjRJKVSWSVqNan",
+     "tid": "doing-fine-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/lkkBY9suNt2qZN6w",
+     "tid": "doing-fine-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "A Hundred Beds",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/CKqR7S3tAzGM3unA",
+     "tid": "a-hundred-beds-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:28",
+     "suno": "https://suno.com/s/UG6ZNueHeyGnIz14",
+     "tid": "a-hundred-beds-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Charge It to Me",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/BEHVgICrsEZgMt36",
+     "tid": "charge-it-to-me-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/UDVgw47F0LWvwwuP",
+     "tid": "charge-it-to-me-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Underlined Mercy",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/Y47w6UU0Y0K3YK5L",
+     "tid": "underlined-mercy-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/qVI65TG5kXhLlHRW",
+     "tid": "underlined-mercy-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Sign Mine",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/dTBldE02UVGm1nea",
+     "tid": "sign-mine-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/qNYFbrIAvhPMdivr",
+     "tid": "sign-mine-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "A Year in My Pocket",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/kGI3mPmlOlpML4xj",
+     "tid": "year-in-my-pocket-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/DR6eWVUVZZki8IyT",
+     "tid": "year-in-my-pocket-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Below That Note",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/OqYsbh7foibM5QsY",
+     "tid": "below-that-note-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/wxqt9Q8qHLW8hD8V",
+     "tid": "below-that-note-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Keep the Deposit",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/WOcxDhSYa00YGbgF",
+     "tid": "keep-the-deposit-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/wkrXVlr7laYiwJo4",
+     "tid": "keep-the-deposit-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Little Brother",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/slRVkvX1QiuAr7zR",
+     "tid": "little-brother-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:28",
+     "suno": "https://suno.com/s/IP2QMhCKTtHJ7v2X",
+     "tid": "little-brother-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Call It Mine",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/S8a6opTQ2nVOEkXT",
+     "tid": "call-it-mine-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/S6OVB9E7L8nFiIt5",
+     "tid": "call-it-mine-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Love Me on a Tuesday",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:28",
+     "suno": "https://suno.com/s/7MgVS6H2Za0OOmJa",
+     "tid": "love-me-on-tuesday-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/UWMorTkSbd1PKCyC",
+     "tid": "love-me-on-tuesday-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Still Stand Guard",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/yWYeCjQCcXSHhCkE",
+     "tid": "still-stand-guard-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/MKaimv6E8MHdYwZ5",
+     "tid": "still-stand-guard-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "The Empty Chair",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/qsb1BjoncLHBnjPD",
+     "tid": "the-empty-chair-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/EnwQkjrZQPvY9JhD",
+     "tid": "the-empty-chair-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Slower Tempo",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/s8RKzXzFhplh0hW3",
+     "tid": "slower-tempo-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/yn3xQvK2soeHIHSP",
+     "tid": "slower-tempo-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Sorry to the Graveyard",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/PROfO6fFebZ7Xdx4",
+     "tid": "sorry-to-the-graveyard-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/Sd1q05N0OXZyk783",
+     "tid": "sorry-to-the-graveyard-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Dancing in the Smoke",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/HZM4OYZwin3ED2Vg",
+     "tid": "dancing-in-the-smoke-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/RCQhqTwcSn2wWEo8",
+     "tid": "dancing-in-the-smoke-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Watch My Six",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/ssZVi2PVTqXsICIrok",
+     "tid": "watch-my-six-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:45",
+     "suno": "https://suno.com/s/JtiF05ihTUk2zCzb",
+     "tid": "watch-my-six-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Woke Up in the Ashes",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/Qz6uSPb6nOPFjCv8",
+     "tid": "woke-up-in-the-ashes-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/7hnuz0AVXa3jSbai",
+     "tid": "woke-up-in-the-ashes-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Lightning First",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/ezTXIJLbgULkFI7nok",
+     "tid": "lightning-first-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/rGIFROD8fJRaESpM",
+     "tid": "lightning-first-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Where the Blue Goes",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:27",
+     "suno": "https://suno.com/s/ANsheJSJcU0iKsU7",
+     "tid": "where-the-blue-goes-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/wkzGyk2kjE8l9s9H",
+     "tid": "where-the-blue-goes-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Gets Louder",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:28",
+     "suno": "https://suno.com/s/mxObtdqTCzQZdRZW",
+     "tid": "gets-louder-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/3EouqmRGrgV8JFDe",
+     "tid": "gets-louder-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Count Me Out",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/94744f02-dcb9-49d4-94a8-cd6f5046d11e",
+     "tid": "count-me-out-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/f0d70e01-a7b6-4964-a6c3-c97e083cc98d",
+     "tid": "count-me-out-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Keep the Lights On",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/b1a67b08-40ac-4038-82b3-79dfeb2e2a01",
+     "tid": "keep-the-lights-on-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:32",
+     "suno": "https://suno.com/song/8c51b78a-2e88-4b09-81ed-7e8e9de4521f",
+     "tid": "keep-the-lights-on-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Borrowed Time",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/ffd93b2e-7646-4d2c-8e26-de3d7de0cc8e",
+     "tid": "borrowed-time-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/c9da10cc-59a7-44ea-bdf1-a1058631197c",
+     "tid": "borrowed-time-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Louder Than Me",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/000cbb93-ab4c-4d44-b25e-3af84beda1bd",
+     "tid": "louder-than-me-t1",
+     "n": 1,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/2b2faf81-2b00-4180-99f9-fe87d74f4299",
+     "tid": "louder-than-me-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Good in Pictures",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/7a54fd1f-4924-456f-a605-5f37a37c42d0",
+     "tid": "good-in-pictures-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/75a8bb86-d229-41ba-ab0f-d703d308e3b7",
+     "tid": "good-in-pictures-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Almost Morning",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/2fced368-bc72-476f-b376-7e61e79194a8",
+     "tid": "almost-morning-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/dd83a426-28e7-459e-a8e6-e55226296c7a",
+     "tid": "almost-morning-t2",
+     "n": 2,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Ghost in the Mirror",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:26",
+     "suno": "https://suno.com/song/904af8f5-a9e2-464e-a2a3-6ff76a540402",
+     "tid": "ghost-in-the-mirror-t1",
+     "n": 1,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:20",
+     "suno": "https://suno.com/song/d9c04e7b-9ff9-450a-a5ea-870f43246945",
+     "tid": "ghost-in-the-mirror-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Category Five",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:32",
+     "suno": "https://suno.com/song/0f0bbb34-e7f1-41e6-92fe-a432d1703438",
+     "tid": "category-five-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/song/7cf46ab3-e4c8-4f25-8fcc-000d33045a18",
+     "tid": "category-five-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Boiling Point",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/006278af-3d47-40ac-a067-25663ccd75d0",
+     "tid": "boiling-point-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/93b91be6-c5dc-49b4-a63c-770af7b7f672",
+     "tid": "boiling-point-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Bad Habit",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/0e386a2d-443f-4f0e-95ed-f39764eb4f64",
+     "tid": "bad-habit-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/78a078d4-303e-4321-8a59-d234ed30dd9b",
+     "tid": "bad-habit-t2",
+     "n": 2,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Run Back",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/e43b0a77-74ec-4224-baf3-49a7611c757b",
+     "tid": "run-back-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/song/4481a6c1-5829-4d14-be70-5da518ae198f",
+     "tid": "run-back-t2",
+     "n": 2,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Dizzy",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/2fe05088-c481-4392-902d-e3a6abe2a95e",
+     "tid": "dizzy-t1",
+     "n": 1,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/4cafb958-3c22-4f78-8466-858881898e7a",
+     "tid": "dizzy-t2",
+     "n": 2,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Play It Loud",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/5136707a-455c-4530-ab08-728ddff42705",
+     "tid": "play-it-loud-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/d465bd2b-be8f-48e6-be80-489dceff4982",
+     "tid": "play-it-loud-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Kerosene",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/song/6e295666-56d5-457a-86e0-a729335a0363",
+     "tid": "kerosene-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/song/f2f2cba6-b12d-4efe-a900-f9a130fe564d",
+     "tid": "kerosene-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Two Left Feet",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/12799ebd-873e-448f-a61e-9871630aebe9",
+     "tid": "two-left-feet-t1",
+     "n": 1,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/song/391dc1df-0410-4742-a903-8896e2f4069c",
+     "tid": "two-left-feet-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": true,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Bad Idea",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "122",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/11ySkS7qPFAPo1ep",
+     "tid": "bad-idea-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/DjCyZcl3ORYJDYFX",
+     "tid": "bad-idea-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Told You So",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "116",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/Mgl8TO7KQWmSvmMi",
+     "tid": "told-you-so-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/5yBClIdLRr1HfSSE",
+     "tid": "told-you-so-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Act My Age",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "140",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/1UTCp9ECLj7rujeS",
+     "tid": "act-my-age-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/D9PiB58JfsPkqvq6",
+     "tid": "act-my-age-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Nine Lives",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "128",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/1QLq2O4ds92aLqFD",
+     "tid": "nine-lives-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/ablozCrbljuV7oCa",
+     "tid": "nine-lives-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Payday",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "106",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/hrcctCyuUgNNhGJS",
+     "tid": "payday-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/TScX3pVCKEoSMB1n",
+     "tid": "payday-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Marquee",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "118",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/AaHNFLO4WSrerTMJ",
+     "tid": "marquee-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/0VqJe4Kp7JzMJqkh",
+     "tid": "marquee-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Check Engine",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/sPE2o4LZWJ0TdJFg",
+     "tid": "check-engine-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/BWTNknjsv1zufgIW",
+     "tid": "check-engine-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Sweet Tooth",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/734Im875rNalhAqN",
+     "tid": "sweet-tooth-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/d0mi8teeyxzMrXTR",
+     "tid": "sweet-tooth-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Bartender",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/Jb2NtL1eopM3QZ8D",
+     "tid": "bartender-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/sJSQ5kvnSFYQa6lN",
+     "tid": "bartender-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Cover Up",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "125",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/2JmukA9PkqTMBIfi",
+     "tid": "cover-up-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/NCmiyMdZf3KnrO1T",
+     "tid": "cover-up-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Stay Down",
+   "estado": "Bancada",
+   "tomas": 2,
+   "bpm": "125",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/eA3RCqZYuPMEVKOL",
+     "tid": "stay-down-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/nqnChXwNlQEDyNPo",
+     "tid": "stay-down-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Blackout",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "125",
+   "duracion": "",
+   "tomas_detalle": [
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/hEm00DS0cks3Woo9",
+     "tid": "blackout-t1",
+     "n": 1,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/zRFgB8JS63z6pASW",
+     "tid": "blackout-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Racing Heart",
+   "estado": "Te gusta",
+   "tomas": 2,
+   "bpm": "142",
+   "duracion": "2:38",
+   "tomas_detalle": [
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/771yQdBTTlxi7hdT",
+     "tid": "racing-heart-t1",
+     "n": 1,
+     "marcas": {
+      "like": true,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/tUXnUXu0CjKyRFUr",
+     "tid": "racing-heart-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": true,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "All In",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "128",
+   "duracion": "2:29",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/uD0NmybhcEkhDH97",
+     "tid": "all-in-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/U9ousJmSEKLcTcal",
+     "tid": "all-in-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "One Way",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "134",
+   "duracion": "2:38",
+   "tomas_detalle": [
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/ONxsVjBBCGrQJ4DS",
+     "tid": "one-way-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:39",
+     "suno": "https://suno.com/s/4hsi17OZthAA8UGm",
+     "tid": "one-way-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "No Net",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "140",
+   "duracion": "2:38",
+   "tomas_detalle": [
+    {
+     "dur": "2:38",
+     "suno": "https://suno.com/s/AsHiJ5jgYEOgjxnu",
+     "tid": "no-net-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/Hf5f6hB7lNIa5cf5",
+     "tid": "no-net-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Thin Ice",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "126",
+   "duracion": "2:29",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/OUspETz3te3rdteM",
+     "tid": "thin-ice-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/MtC6ZEkJazwS6uzy",
+     "tid": "thin-ice-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "actualizado": "2026-11-18"
+  },
+  {
+   "titulo": "Last Train",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "133",
+   "duracion": "2:30",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/No3CgehNrk62fLiV",
+     "tid": "last-train-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/aZVZjC8Bz5vtZDeU",
+     "tid": "last-train-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "On Air",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "139",
+   "duracion": "3:07",
+   "tomas_detalle": [
+    {
+     "dur": "3:07",
+     "suno": "https://suno.com/s/QzuxcZe1T7lVRwQo",
+     "tid": "on-air-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "3:43",
+     "suno": "https://suno.com/s/5QkPy9nvfH7LOvKR",
+     "tid": "on-air-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ]
+  },
+  {
+   "titulo": "Rooftop",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "130",
+   "duracion": "4:03",
+   "tomas_detalle": [
+    {
+     "dur": "4:03",
+     "suno": "https://suno.com/s/tF4Zzkk8eDPrXc3V",
+     "tid": "rooftop-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "3:18",
+     "suno": "https://suno.com/s/F7uteIt5UxgQhiYY",
+     "tid": "rooftop-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ]
+  }
+ ],
+ "publicaciones": [
+  {
+   "cancion": "Sleep Tight",
+   "plataforma": "Spotify",
+   "fecha": "10/11/2026",
+   "detalle": "En vivo · DistroKid, 24 tiendas",
+   "enlace": "https://open.spotify.com/track/4ZXgGz85mxeGNxLsi260Kt",
+   "upc": "700087980560",
+   "isrc": "QTAF32623981",
+   "nota": "El 17/11/2026 la playlist «Lonely & Broke» (vía Daily Playlists) aceptó la canción."
+  },
+  {
+   "cancion": "Wide Awake",
+   "plataforma": "Pre-save (HyperFollow)",
+   "fecha": "Sale el 27/11/2026",
+   "detalle": "DistroKid · 24 tiendas · entregada · video oficial el mismo 27/11 en YouTube",
+   "enlace": "https://distrokid.com/hyperfollow/lastcall14/wide-awake",
+   "upc": "700081377557",
+   "isrc": "QTAF72609135",
+   "nota": "El día del lanzamiento sale también el envío a los curadores de playlists (Daily Playlists)."
+  },
+  {
+   "cancion": "Sleep Tight",
+   "plataforma": "YouTube — video oficial (visualizer)",
+   "fecha": "10/11/2026",
+   "detalle": "En vivo",
+   "enlace": "https://www.youtube.com/watch?v=py4pD7H1vk4",
+   "upc": "700087980560",
+   "isrc": "QTAF32623981",
+   "nota": ""
+  },
+  {
+   "cancion": "Sleep Tight",
+   "plataforma": "YouTube — lyric video",
+   "fecha": "10/11/2026",
+   "detalle": "En vivo",
+   "enlace": "https://www.youtube.com/watch?v=B5X3S4CW94U",
+   "upc": "700087980560",
+   "isrc": "QTAF32623981",
+   "nota": ""
+  },
+  {
+   "cancion": "Sleep Tight",
+   "plataforma": "SoundCloud",
+   "fecha": "10/11/2026",
+   "detalle": "También publicada",
+   "enlace": "https://soundcloud.com/lastcallofficial",
+   "upc": "700087980560",
+   "isrc": "QTAF32623981",
+   "nota": ""
+  }
+ ],
+ "calendario": [
+  {
+   "fecha": "27/11/2026",
+   "tipo": "lanzamiento",
+   "titulo": "Lanzamiento de «Wide Awake»",
+   "detalle": "Sencillo en 24 tiendas vía DistroKid · video oficial en YouTube el mismo día · envío a curadores"
+  },
+  {
+   "fecha": "18/12/2026",
+   "tipo": "lanzamiento",
+   "titulo": "Siguiente sencillo",
+   "detalle": "Cadencia de sencillos cada 3 semanas; la canción sale de tus marcas de la Sala"
+  },
+  {
+   "fecha": "08/01/2027",
+   "tipo": "lanzamiento",
+   "titulo": "Sencillo de enero",
+   "detalle": "Cadencia de sencillos cada 3 semanas"
+  },
+  {
+   "fecha": "29/01/2027",
+   "tipo": "lanzamiento",
+   "titulo": "Sencillo de enero (segundo)",
+   "detalle": "Cadencia de sencillos cada 3 semanas"
+  },
+  {
+   "fecha": "16/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 01 de «Wide Awake»",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET · ya pública"
+  },
+  {
+   "fecha": "17/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 02 de «Wide Awake»",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET · ya pública"
+  },
+  {
+   "fecha": "19/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 03 de «Wide Awake»",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET"
+  },
+  {
+   "fecha": "21/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 04 de «Wide Awake»",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET"
+  },
+  {
+   "fecha": "23/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 05 de «Wide Awake»",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET"
+  },
+  {
+   "fecha": "25/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 06 de «Wide Awake»",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET"
+  },
+  {
+   "fecha": "27/11/2026",
+   "tipo": "promocion",
+   "titulo": "Short 07 de «Wide Awake» — OUT NOW",
+   "detalle": "Serie promocional en YouTube Shorts · 19:00 ET · día del lanzamiento"
+  }
+ ],
+ "descartadas": [],
+ "detalle_publicadas": {
+  "Sleep Tight": {
+   "letra": "# Not a literal translation: re-metered for English phrasing. Hook twists the traditional \"good night, sleep tight, don't let the bedbugs bite\" rhyme (public domain) — same move as the Spanish lullaby version.\n\n[Intro]\n(whispered) Sleep tight… here comes the wolf…\n\n[Verse 1]\nShe walks in silent, honey in her eyes,\ntastes like sweet danger, poison in disguise.\nThey told me \"run\" — and I chose to stay:\nsome loves are fire, and I like the flame.\n\n[Pre-Chorus]\nIf heaven wants to punish me for wanting her this way,\nwrite my name on the list — I signed it anyway.\n\n[Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and I'll wait by the door.\n\n[Verse 2]\nShe's got a map of sins written down her back,\nevery kiss a debt that I can't pay back.\nIf I get lost in her woods, don't come find me:\nsome cages have open doors and you still can't leave.\n\n[Pre-Chorus]\nIf heaven wants to punish me for wanting her this way,\nwrite my name on the list — I signed it anyway.\n\n[Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and I'll wait by the door.\n\n[Bridge]\nIf this is a story, it ends in the dark —\nbut nobody sleeps wanting to wake up.\n(whispered) Sleep tight…\n\n[Final Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.",
+   "datos": [
+    [
+     "Publicada",
+     "10/11/2026"
+    ],
+    [
+     "Plataformas",
+     "24 (Spotify, Apple Music, YouTube Music y más)"
+    ],
+    [
+     "UPC",
+     "700087980560"
+    ],
+    [
+     "ISRC",
+     "QTAF32623981"
+    ],
+    [
+     "Distribuidora",
+     "DistroKid"
+    ]
+   ],
+   "estadisticas": [
+    [
+     "Video oficial (YouTube)",
+     "97 vistas · 17/11/2026"
+    ],
+    [
+     "Lyric Video (YouTube)",
+     "97 vistas · 17/11/2026"
+    ],
+    [
+     "Curadores",
+     "Aprobada por «Lonely & Broke» (Daily Playlists, 17/11)"
+    ],
+    [
+     "Canvas de Spotify",
+     "Lobo y luna (HyperFrames) — en vivo desde el 17/11"
+    ]
+   ],
+   "enlaces": [
+    [
+     "Spotify — la canción",
+     "https://open.spotify.com/track/4ZXgGz85mxeGNxLsi260Kt"
+    ],
+    [
+     "Video oficial (YouTube)",
+     "https://www.youtube.com/watch?v=py4pD7H1vk4"
+    ],
+    [
+     "Lyric Video (YouTube)",
+     "https://www.youtube.com/watch?v=B5X3S4CW94U"
+    ],
+    [
+     "SoundCloud",
+     "https://soundcloud.com/lastcallofficial"
+    ]
+   ]
+  },
+  "Wide Awake": {
+   "letra": "# Receta: dark pop tipo Stellar — Fa menor, 130 BPM, voz pop suave con falsete, Persona «Voz Dark ML».\n# Estado: letra aprobada para generar tomas de escucha; SIN subir a DistroKid sin aprobación expresa de Brayan.\n\n[Verse 1]\nI sang you off to sleep each night\nNow the song is stuck in me\nCounting cracks up on the ceiling\nWhere your shadow used to be\n\n[Pre-Chorus]\nThe moon is red, the house is cold\nI did this — or so I'm told\n\n[Chorus]\nNow I'm wide awake\nWhile you're sleeping fine\nI gave you all my dreams\nAnd you took your time\nNow I'm wide awake\nWith the mess we made\nSleep tight, love —\nI'm the one who pays\n\n[Verse 2]\nYour pillow still remembers you\nBetter than I ever will\nI close my eyes, you're standing there\nQuiet, darker, still\n\n[Bridge]\nHush now, don't you cry\nThat's what I sang — what a lie\nHush now, close your eyes\nI'm the ghost this time",
+   "datos": [
+    [
+     "Sale",
+     "Viernes 27/11/2026 · 12:00 AM ET"
+    ],
+    [
+     "Plataformas",
+     "24 tiendas (DistroKid)"
+    ],
+    [
+     "UPC",
+     "700081377557"
+    ],
+    [
+     "ISRC",
+     "QTAF72609135"
+    ],
+    [
+     "Pre-save",
+     "Activo (HyperFollow)"
+    ],
+    [
+     "Distribuidora",
+     "DistroKid"
+    ]
+   ],
+   "estadisticas": [
+    [
+     "Video oficial",
+     "Listo — se publica el mismo día 27/11"
+    ],
+    [
+     "Serie promo",
+     "7 piezas HyperFrames (01 y 02 públicas, 03–07 programadas)"
+    ],
+    [
+     "Pitch editorial Spotify",
+     "En reintento — Spotify aún no la lista (17/11)"
+    ]
+   ],
+   "enlaces": [
+    [
+     "Pre-save (HyperFollow)",
+     "https://distrokid.com/hyperfollow/lastcall14/wide-awake"
+    ],
+    [
+     "YouTube — canal oficial",
+     "https://www.youtube.com/channel/UCSGx55RnqxXjk1WY1Lo4jYQ"
+    ]
+   ]
+  }
+ },
+ "revision": "2026-11-18 21:38 ET",
+ "app_version_code": 9,
+ "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
+ "decisiones_en": 1795055872893
+}
