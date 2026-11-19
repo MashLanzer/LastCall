@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-19",
- "revision": "2026-11-19 00:25 ET",
+ "revision": "2026-11-19 00:58 ET",
  "app_version_code": 12,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -16,8 +16,8 @@
  "stats": {
   "spotify_oyentes": 2,
   "youtube_subs": 7,
-  "canciones": 117,
-  "tomas": 237
+  "canciones": 120,
+  "tomas": 243
  },
  "proximo_lanzamiento": {
   "titulo": "Wide Awake",
@@ -4342,6 +4342,114 @@
     }
    ],
    "letra": "[Chorus]\nSweet talker, silver tongue\nEvery lie sounds like a song\nSweet talker, watch that smile\nYou believed him all the while\nSweet talker, silver tongue\nBorrowed suit, borrowed shine\nSays the words right on time\nYou believed him all the while\n\n[Verse 1]\nSold his cousin a broken bike\nTalks his way past any door\nTells the cop a pretty story\nDrives home slow and free\n\n[Pre-Chorus]\nAnd you nod, and you nod\nAnd you nod, and you nod\n\n[Chorus]\nSweet talker, silver tongue\nEvery promise weighs a ton\nSweet talker, soft and low\nWhere he gets it, no one knows\nSweet talker, silver tongue\nChurch voice on a Sunday\nDevil's grin by Monday\nYou believed him all the while\n\n[Instrumental Break]\n(pulsing synth bass and finger-snap break, loud and sustained, no vocals)\n\n[Verse 2]\nOwes the bar, owes his brother\nSmiles and orders one more\nGirls write songs about him\nHe hums along, keeping score\n\n[Pre-Chorus]\nAnd you nod, and you nod\nAnd you nod, and you nod\n\n[Final Chorus]\nSweet talker, silver tongue\nEvery lie sounds like a song\nSweet talker, watch that smile\nYou believed him all the while\nSweet talker, silver tongue\nBorrowed suit, borrowed shine\nSays the words right on time\nNow he believes it too\n\n[Outro]\nSweet talker\nSilver tongue\nSweet talker"
+  },
+  {
+   "titulo": "Can't Shake You",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "140",
+   "duracion": "2:30",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/oAn5CLKQqx9wGnkd",
+     "tid": "cant-shake-you-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/TE1UoTyIDu5qaxi3",
+     "tid": "cant-shake-you-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nCan't shake you, can't shake you\nYou're still living in my head\nCan't shake you, can't shake you\nOn your side of the bed\nTurn the lights off, you're still there\nIn the dark, in the air\nCan't shake you, can't shake you\nAnd it echoes everywhere\n\n[Verse 1]\nYour cup is still in the sink\nYour song played in a stranger's car\nChanged the locks back in June\nStill hear your keys in the dark\n\n[Pre-Chorus]\nYou're gone and you're not gone\nYou're gone and you're not gone\n\n[Chorus]\nCan't shake you, can't shake you\nYou're still living in my head\nCan't shake you, can't shake you\nOn your side of the bed\nClose my eyes, you're right here\nSay my name in my ear\nCan't shake you, can't shake you\nAnd it echoes everywhere\n\n[Instrumental Break]\n(pulsing synth bass and high synth break, loud and sustained, no vocals)\n\n[Verse 2]\nYour number's still in my phone\nI just changed the name to \"Don't\"\nEvery Friday I almost call\nEvery Friday I don't\n\n[Pre-Chorus]\nYou're gone and you're not gone\nYou're gone and you're not gone\n\n[Final Chorus]\nCan't shake you, can't shake you\nYou're still living in my head\nCan't shake you, can't shake you\nOn your side of the bed\nTurn the lights off, you're still there\nIn the dark, in the air\nCan't shake you, can't shake you\nAnd tonight I let you stay\n\n[Outro]\nCan't shake you\nStill in my head\nCan't shake you"
+  },
+  {
+   "titulo": "Don't Save Me",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "128",
+   "duracion": "2:30",
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/HRxMwp7oqqAh2IW5",
+     "tid": "dont-save-me-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/Wlvq1IrV4V4XHwgJ",
+     "tid": "dont-save-me-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nDon't save me, don't save me\nI ain't worth the saving\nDon't save me, don't save me\nI'll pull you down with me\nClean hands and a good heart\nI'm a fire in the dark\nDon't save me, don't save me\nSave yourself from me\n\n[Verse 1]\nYou drove all night in the rain\nFound me on the bathroom floor\nHeld my face in both your hands\nSaid, \"Baby, we've been here before\"\n\n[Pre-Chorus]\nAnd I keep dragging you back in\nAnd I keep dragging you back in\n\n[Chorus]\nDon't save me, don't save me\nI ain't worth the saving\nDon't save me, don't save me\nI'll pull you down with me\nYou stayed up, you prayed hard\nI came home with new scars\nDon't save me, don't save me\nSave yourself from me\n\n[Instrumental Break]\n(dark piano and stomp break, loud and sustained, no vocals)\n\n[Verse 2]\nSunday morning, you're at church\nLeft your Bible by my bed\nRead one line and closed the book\nStill got hell inside my head\n\n[Pre-Chorus]\nAnd I keep dragging you back in\nAnd I keep dragging you back in\n\n[Final Chorus]\nDon't save me, don't save me\nI ain't worth the saving\nDon't save me, don't save me\nI'll pull you down with me\nClean hands and a good heart\nI'm a fire in the dark\nDon't save me, don't save me\nWho's gonna save you from me?\n\n[Outro]\nSave yourself\nSave yourself from me"
+  },
+  {
+   "titulo": "Bad For Me",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "135",
+   "duracion": "2:29",
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/BxebOvZoK9EL6zHa",
+     "tid": "bad-for-me-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/5ikexSL25mi3Cas0",
+     "tid": "bad-for-me-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nBad for me, you're bad for me\nAnd I know it every time\nBad for me, you're bad for me\nStill I run back every night\nSay your name like a prayer\nKnowing God ain't listening\nBad for me, you're bad for me\nAnd I drink you anyway\n\n[Verse 1]\nTwo AM, my phone lights up\nYour name, and my hands start shaking\nTold my friends I'm done for good\nSaid it walking to your door\n\n[Pre-Chorus]\nI know better, I know better\nI know better, I know better\n\n[Chorus]\nBad for me, you're bad for me\nAnd I feel it in my chest\nBad for me, you're bad for me\nStill I run back every night\nTaste the poison, smile wide\nTell myself it's medicine\nBad for me, you're bad for me\nAnd I drink you anyway\n\n[Instrumental Break]\n(muted guitar riff and drum break, loud and sustained, no vocals)\n\n[Verse 2]\nMorning light, your side is empty\nCoffee's cold, I drink it black\nLast night's shirt still smells like you\nAnd I'm already crawling back\n\n[Pre-Chorus]\nI know better, I know better\nI know better, I know better\n\n[Final Chorus]\nBad for me, I'm bad for me\nYou're just where I hide\nBad for me, I'm bad for me\nI'm the one who lied\nSay your name like a prayer\nKnowing God ain't listening\nBad for me, I'm bad for me\nAnd I drink it anyway\n\n[Outro]\nBad for me\nBad for me\nI know it"
   }
  ],
  "publicaciones": [
