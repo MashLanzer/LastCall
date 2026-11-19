@@ -1,8 +1,8 @@
 {
  "version": 2,
  "actualizado": "2026-11-19",
- "revision": "2026-11-19 00:58 ET",
- "app_version_code": 12,
+ "revision": "2026-11-19 01:42 ET",
+ "app_version_code": 13,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
   "nombre": "LAST CALL",
@@ -31,6 +31,7 @@
    "tomas": 1,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": true,
    "tomas_detalle": [
     {
      "dur": "2:52",
@@ -53,6 +54,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:52",
@@ -86,6 +88,7 @@
    "tomas": 4,
    "bpm": "125",
    "duracion": "2:29",
+   "tiene_portada": true,
    "tomas_detalle": [
     {
      "dur": "2:02",
@@ -144,6 +147,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:52",
@@ -178,6 +182,7 @@
    "tomas": 2,
    "bpm": "145",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:52",
@@ -211,6 +216,7 @@
    "tomas": 2,
    "bpm": "148",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:02",
@@ -268,6 +274,7 @@
    "tomas": 2,
    "bpm": "142",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:52",
@@ -301,6 +308,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:52",
@@ -334,6 +342,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": true,
    "tomas_detalle": [
     {
      "dur": "2:02",
@@ -392,6 +401,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:52",
@@ -426,6 +436,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:52",
@@ -459,6 +470,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": true,
    "tomas_detalle": [
     {
      "dur": "2:02",
@@ -517,6 +529,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:52",
@@ -551,6 +564,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:52",
@@ -584,6 +598,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": true,
    "tomas_detalle": [
     {
      "dur": "2:02",
@@ -642,6 +657,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:52",
@@ -676,6 +692,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:52",
@@ -709,6 +726,7 @@
    "tomas": 2,
    "bpm": "125",
    "duracion": "2:29",
+   "tiene_portada": true,
    "tomas_detalle": [
     {
      "dur": "2:02",
@@ -767,6 +785,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:52",
@@ -801,6 +820,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -837,6 +857,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -873,6 +894,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -909,6 +931,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:52",
@@ -943,6 +966,7 @@
    "tomas": 4,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1005,6 +1029,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1041,6 +1066,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -1077,6 +1103,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:31",
@@ -1112,6 +1139,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1148,6 +1176,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1184,6 +1213,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:31",
@@ -1220,6 +1250,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1256,6 +1287,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1292,6 +1324,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1328,6 +1361,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1364,6 +1398,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -1400,6 +1435,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -1436,6 +1472,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1472,6 +1509,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1508,6 +1546,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "1:15",
@@ -1544,6 +1583,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1580,6 +1620,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -1616,6 +1657,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:28",
@@ -1652,6 +1694,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -1688,6 +1731,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -1724,6 +1768,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -1760,6 +1805,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1796,6 +1842,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1832,6 +1879,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -1868,6 +1916,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:31",
@@ -1904,6 +1953,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -1939,6 +1989,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -1975,6 +2026,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2011,6 +2063,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2047,6 +2100,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -2083,6 +2137,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:31",
@@ -2119,6 +2174,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:31",
@@ -2155,6 +2211,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:31",
@@ -2191,6 +2248,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2227,6 +2285,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2263,6 +2322,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2299,6 +2359,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2335,6 +2396,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2371,6 +2433,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -2407,6 +2470,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -2442,6 +2506,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:31",
@@ -2478,6 +2543,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2514,6 +2580,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2550,6 +2617,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2586,6 +2654,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:28",
@@ -2621,6 +2690,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2657,6 +2727,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:31",
@@ -2693,6 +2764,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2729,6 +2801,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2765,6 +2838,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2801,6 +2875,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -2837,6 +2912,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -2873,6 +2949,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -2909,6 +2986,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:27",
@@ -2945,6 +3023,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:28",
@@ -2981,6 +3060,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -3017,6 +3097,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -3053,6 +3134,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -3089,6 +3171,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -3125,6 +3208,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -3161,6 +3245,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -3197,6 +3282,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:26",
@@ -3233,6 +3319,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:32",
@@ -3269,6 +3356,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -3305,6 +3393,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -3341,6 +3430,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -3377,6 +3467,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -3413,6 +3504,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -3449,6 +3541,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:31",
@@ -3485,6 +3578,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -3521,6 +3615,8 @@
    "tomas": 2,
    "bpm": "122",
    "duracion": "",
+   "puntaje": 49.7,
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:31",
@@ -3557,6 +3653,8 @@
    "tomas": 2,
    "bpm": "116",
    "duracion": "",
+   "puntaje": 50.5,
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -3593,6 +3691,8 @@
    "tomas": 2,
    "bpm": "140",
    "duracion": "",
+   "puntaje": 54.0,
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -3629,6 +3729,7 @@
    "tomas": 2,
    "bpm": "128",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -3665,6 +3766,7 @@
    "tomas": 2,
    "bpm": "106",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -3701,6 +3803,7 @@
    "tomas": 2,
    "bpm": "118",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:31",
@@ -3737,6 +3840,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:38",
@@ -3773,6 +3877,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:38",
@@ -3809,6 +3914,7 @@
    "tomas": 2,
    "bpm": "",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -3845,6 +3951,7 @@
    "tomas": 2,
    "bpm": "125",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -3881,6 +3988,7 @@
    "tomas": 2,
    "bpm": "125",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:38",
@@ -3917,6 +4025,7 @@
    "tomas": 2,
    "bpm": "125",
    "duracion": "",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:38",
@@ -3953,6 +4062,7 @@
    "tomas": 2,
    "bpm": "142",
    "duracion": "2:38",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:38",
@@ -3989,6 +4099,7 @@
    "tomas": 2,
    "bpm": "128",
    "duracion": "2:29",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -4025,6 +4136,7 @@
    "tomas": 2,
    "bpm": "134",
    "duracion": "2:38",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:38",
@@ -4061,6 +4173,7 @@
    "tomas": 2,
    "bpm": "140",
    "duracion": "2:38",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:38",
@@ -4097,6 +4210,7 @@
    "tomas": 2,
    "bpm": "126",
    "duracion": "2:29",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
@@ -4133,6 +4247,7 @@
    "tomas": 2,
    "bpm": "133",
    "duracion": "2:30",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -4169,6 +4284,7 @@
    "tomas": 2,
    "bpm": "139",
    "duracion": "3:07",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "3:07",
@@ -4205,6 +4321,7 @@
    "tomas": 2,
    "bpm": "130",
    "duracion": "4:03",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "4:03",
@@ -4241,6 +4358,7 @@
    "tomas": 2,
    "bpm": "138",
    "duracion": "2:38",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:38",
@@ -4277,6 +4395,7 @@
    "tomas": 2,
    "bpm": "131",
    "duracion": "2:38",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:38",
@@ -4313,6 +4432,7 @@
    "tomas": 2,
    "bpm": "127",
    "duracion": "2:38",
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:38",
@@ -4349,6 +4469,8 @@
    "tomas": 2,
    "bpm": "140",
    "duracion": "2:30",
+   "puntaje": 55.0,
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -4385,6 +4507,8 @@
    "tomas": 2,
    "bpm": "128",
    "duracion": "2:30",
+   "puntaje": 53.5,
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:30",
@@ -4421,6 +4545,8 @@
    "tomas": 2,
    "bpm": "135",
    "duracion": "2:29",
+   "puntaje": 52.5,
+   "tiene_portada": false,
    "tomas_detalle": [
     {
      "dur": "2:29",
