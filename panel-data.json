@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-18",
- "revision": "2026-11-18 22:59 ET",
+ "revision": "2026-11-19 00:15 ET",
  "app_version_code": 10,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -4149,7 +4149,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4162,7 +4162,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -4184,7 +4184,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4197,7 +4197,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -4219,7 +4219,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4232,7 +4232,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -4360,7 +4360,7 @@
   }
  ],
  "descartadas": [],
- "decisiones_en": 1795058827309,
+ "decisiones_en": 1795065297963,
  "detalle_publicadas": {
   "Sleep Tight": {
    "letra": "# Not a literal translation: re-metered for English phrasing. Hook twists the traditional \"good night, sleep tight, don't let the bedbugs bite\" rhyme (public domain) — same move as the Spanish lullaby version.\n\n[Intro]\n(whispered) Sleep tight… here comes the wolf…\n\n[Verse 1]\nShe walks in silent, honey in her eyes,\ntastes like sweet danger, poison in disguise.\nThey told me \"run\" — and I chose to stay:\nsome loves are fire, and I like the flame.\n\n[Pre-Chorus]\nIf heaven wants to punish me for wanting her this way,\nwrite my name on the list — I signed it anyway.\n\n[Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and I'll wait by the door.\n\n[Verse 2]\nShe's got a map of sins written down her back,\nevery kiss a debt that I can't pay back.\nIf I get lost in her woods, don't come find me:\nsome cages have open doors and you still can't leave.\n\n[Pre-Chorus]\nIf heaven wants to punish me for wanting her this way,\nwrite my name on the list — I signed it anyway.\n\n[Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and I'll wait by the door.\n\n[Bridge]\nIf this is a story, it ends in the dark —\nbut nobody sleeps wanting to wake up.\n(whispered) Sleep tight…\n\n[Final Chorus]\nSleep tight, sleep tight,\nhere comes the wolf, he owns the night.\nSleep tight, sleep tight:\nshe is the wolf… and she's coming for me.",
