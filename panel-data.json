@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-19",
- "revision": "2026-11-19 20:21 ET",
+ "revision": "2026-11-19 23:55 ET",
  "app_version_code": 26,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -4691,6 +4691,44 @@
     }
    ],
    "letra": "[Chorus]\nBetter off, better off\nLook at you, you're better off\nBetter off, better off\nI'm the storm you walked out of\nWhite dress on the courthouse steps\nLaughing with your whole chest\nBetter off, better off\nGirl, you're better off\n\n[Verse 1]\nOne year sober in the photo\nGold chip shining in your hand\nI zoom in like a bad habit\nThen I put the phone back down\n\n[Pre-Chorus]\nI was the fire, you were the house\nI was the fire, you were the house\n\n[Chorus]\nBetter off, better off\nLook at you, you're better off\nBetter off, better off\nI'm the storm you walked out of\nOne year clean and counting\nGold chip, church bells sounding\nBetter off, better off\nGirl, you're better off\n\n[Instrumental Break]\n(dirty guitar break, loud and sustained, no vocals)\n\n[Verse 2]\nMy name carved in the bar stool\nYour name gone from my door\nYour mama prays for you Sundays\nShe don't say my name no more\n\n[Pre-Chorus]\nI was the fire, you were the house\nI was the fire, you were the house\n\n[Final Chorus]\nBetter off, better off\nLook at you, you're better off\nBetter off, better off\nI'm the storm you walked out of\nWhite dress on the courthouse steps\nLaughing with your whole chest\nBetter off, better off\nDon't you ever come back for me\n\n[Outro]\nBetter off\nWalked out of the storm\nBetter off"
+  },
+  {
+   "titulo": "Still Got Your Voice",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "126",
+   "duracion": "2:30",
+   "puntaje": 54.5,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/vta9TU8AdiOh4Czo",
+     "tid": "still-got-your-voice-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/GCmcrkAI3TH0l4Z4",
+     "tid": "still-got-your-voice-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nStill got your voice\nSaved in my phone\nForty-seven seconds\nAnd I'm not alone\nYou say \"call me back\"\nLike you still mean it\nStill got your voice\nAnd I keep on needing it\n\n[Verse 1]\nYour mug is in my sink\nTwo weeks, I don't wash it\nYour side of the bed stays cold\nI sleep on the edge of it\n\n[Pre-Chorus]\nOne more play, then I'll sleep\nOne more play, then I'll sleep\n\n[Chorus]\nStill got your voice\nSaved in my phone\nForty-seven seconds\nThen the silence comes home\nYou laugh at second nine\nLike nothing ended\nStill got your voice\nAnd I keep on needing it\n\n[Instrumental Break]\n(piano and sub swell, loud and sustained, no vocals)\n\n[Verse 2]\nNew sheets, same old pillow\nYour charger in my wall\nI talk to an empty kitchen\nSay your name to no one at all\n\n[Pre-Chorus]\nOne more play, then I'll sleep\nOne more play, then I'll sleep\n\n[Final Chorus]\nStill got your voice\nSaved in my phone\nForty-seven seconds\nAnd I'm not alone\nYou say \"call me back\"\nLike you still mean it\nStill got your voice\nBut I won't press play tonight\n\n[Outro]\nForty-seven seconds\nThat's all I kept\nStill got your voice"
   }
  ],
  "publicaciones": [
@@ -4947,6 +4985,13 @@
     "creditos": 30,
     "fecha": "2026-11-19",
     "saldo": 1090
+   },
+   {
+    "mision": "Misión 10",
+    "canciones": 1,
+    "creditos": 10,
+    "fecha": "2026-11-19",
+    "saldo": 1080
    }
   ]
  },
