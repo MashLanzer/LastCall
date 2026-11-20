@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-19",
- "revision": "2026-11-20 11:52 ET",
+ "revision": "2026-11-20 14:31 ET",
  "app_version_code": 29,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -4733,7 +4733,7 @@
   {
    "titulo": "Answer Me",
    "estado": "En la Sala",
-   "tomas": 4,
+   "tomas": 6,
    "bpm": "133",
    "duracion": "2:30",
    "puntaje": 55.5,
@@ -4783,6 +4783,32 @@
      "suno": "https://suno.com/s/nzL8HJLdiMmoIBgR",
      "tid": "answer-me-t4",
      "n": 4,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/jzX42qgpupydc6FB",
+     "tid": "answer-me-t5",
+     "n": 5,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/WVskeY6IblyXzcBj",
+     "tid": "answer-me-t6",
+     "n": 6,
      "marcas": {
       "like": false,
       "dislike": false,
@@ -5184,6 +5210,14 @@
     "creditos": 30,
     "fecha": "2026-11-20",
     "saldo": 1030
+   },
+   {
+    "mision": "Toma extra «Answer Me»",
+    "canciones": 1,
+    "creditos": 10,
+    "fecha": "2026-11-20",
+    "saldo": 1020,
+    "nota": "Pedido de Brayan desde la app (ped-1795200630573): 1 Create = tomas T5 y T6 de «Answer Me»"
    }
   ]
  },
