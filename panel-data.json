@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-19",
- "revision": "2026-11-20 11:13 ET",
+ "revision": "2026-11-20 11:14 ET",
  "app_version_code": 26,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -4793,6 +4793,120 @@
     }
    ],
    "letra": "[Chorus]\nAnswer me, answer me\nTalkin' through the windshield again\nAnswer me, answer me\nSix years gone and I won't walk in\nRosary swingin' on the mirror\nTalkin' loud to an empty sky\nAnswer me, answer me\nSay somethin' — I'm still here\n\n[Verse 1]\nParked in Your lot with the engine on\nThree AM, coffee cold since one\nBible on the seat, spine cracked open\nHaven't read a word since I was seventeen\nI only show up when it all goes wrong\nThen I wonder why the line's gone dead\n\n[Pre-Chorus]\nSo I'm knockin', knockin' till my knuckles ache\nKnockin' like the door's gonna break\nIf it stays shut, I'll sleep in the car\nJust don't tell me You forgot my name\n\n[Chorus]\nAnswer me, answer me\nTalkin' through the windshield again\nAnswer me, answer me\nLot's gone dark and the night's worn thin\nRosary swingin' on the mirror\nTalkin' loud to an empty sky\nAnswer me, answer me\nSay somethin' — I'm still here\n\n[Bridge]\nI don't pray clean, I pray mad\nOnly call when it all goes bad\nLearned my faith from a runaway dad\nLord, don't let me end up like that\nDon't let me end up like that\n\n[Instrumental Interlude]\n(short synth pulse, no vocals)\n\n[Final Chorus]\nAnswer me, answer me\nTalkin' through the windshield again\nAnswer me, answer me\nSix years gone and I won't walk in\nRosary swingin' on the mirror\nTalkin' loud to an empty sky\nAnswer me, answer me\nSay somethin' — I'm still here\n\n[Outro]\nAnswer me (answer me)\nThrough the windshield again\nSix years gone\nI'm still here"
+  },
+  {
+   "titulo": "Don't Wait Up",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "137",
+   "duracion": "2:35",
+   "puntaje": 55.0,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:35",
+     "suno": "https://suno.com/s/v12hQRbT21fYxyaM",
+     "tid": "dont-wait-up-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/YCA6gsPh8gSfcA66",
+     "tid": "dont-wait-up-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Hook]\nDon't wait up, don't wait up\nLeave that porch light off for me\nDon't wait up, don't wait up\nI ain't the man you think you see\n\n[Verse 1]\nFour-twelve on the microwave glow\nYour text says \"close?\" — three hours ago\nBoots by your door, quiet as I can\nKeys in my fist so they don't shake in my hand\nPlate in the fridge with the wrap pulled tight\nYou cook for a man who eats out at night\n\n[Pre-Chorus]\nSixty watts burnin' all night long\nFor a man who keeps comin' home wrong\n\n[Chorus]\nDon't wait up, don't wait up\nLeave that porch light off for me\nDon't wait up, don't wait up\nI ain't the man you think you see\nYou hold the door, I wreck the house\nSay my name soft, I shut it out\nDon't wait up, don't wait up\nYour waitin' keeps me comin' 'round\n\n[Instrumental Swell]\n(sustained synth swell, no vocals, louder than the voice)\n\n[Verse 2]\nGas light on since the county line\nDrove past my exit three more times\nYour dog don't bark when I come in late\nEven he's tired of seein' my face\n\n[Chorus]\nDon't wait up, don't wait up\nLeave that porch light off for me\nDon't wait up, don't wait up\nI ain't the man you think you see\nYou pray out loud, I curse in my head\nYou make the bed, I come home dead\nDon't wait up, don't wait up\nYour waitin' keeps me comin' 'round\n\n[Final Chorus]\nDon't wait up, don't wait up\nCame home and the porch was dark\nDon't wait up, don't wait up\nNo light, no plate, no spark\nYou took the bulb out, took your heart\nNow I'm the one up in the dark\nDon't wait up, don't wait up\nNow I'm waitin' in the dark\n\n[Outro]\nDon't wait up (don't wait up)\nPorch light off\nI'm up in the dark"
+  },
+  {
+   "titulo": "Just Like Him",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "129",
+   "duracion": "2:32",
+   "puntaje": 53.0,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:32",
+     "suno": "https://suno.com/s/JvoXHzArgtm725Qp",
+     "tid": "just-like-him-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/O91rLZoOWUDtrg9p",
+     "tid": "just-like-him-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Verse 1]\nCaught it in the kitchen last night\nMy laugh — just like him, cuts off mid-fight\nMama went quiet on the other end\nLike she'd heard a ghost walk in again\nHis boots by the door, size ten, worn thin\nI put 'em on — they fit my skin\n\n[Pre-Chorus]\nSwore up and down I'd never be\nThe man who walked out on me\n\n[Chorus]\nJust like him, just like him\nHis hands on the wheel when I drive\nJust like him, just like him\nSame storm in the same blue eyes\nI slam the same door, say the same lines\nWalk out mid-sentence every time\nJust like him, just like him\nGod, I'm turnin' just like him\n\n[Verse 2]\nGirl at the table says \"talk to me\"\nI hear my voice go cold and mean\nCoffee gone bitter, shirt on the chair\nI'm halfway to the truck before I care\nChecked the mirror at the red light stop\nSaw his face in mine and my stomach dropped\n\n[Chorus]\nJust like him, just like him\nHis hands on the wheel when I drive\nJust like him, just like him\nSame storm in the same blue eyes\nI keep the same secrets, drink the same way\nSwear I'll change every Sunday\nJust like him, just like him\nGod, I'm turnin' just like him\n\n[Bridge]\nJust like him\nJust like him\nTell me I'm not\nJust like him\n\n[Final Chorus]\nJust like him, just like him\nThese hands on the wheel when I drive\nJust like him, just like him\nSame storm in the same blue eyes\nI slam the same door, say the same lines\nWalk out mid-sentence every time\nJust like him, just like him\nGod, I'm turnin' just like him"
+  },
+  {
+   "titulo": "Two Of Me",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "134",
+   "duracion": "2:30",
+   "puntaje": 53.5,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/32FPKFUWdPZY7S3c",
+     "tid": "two-of-me-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/MKPxXorN6pxBWGIb",
+     "tid": "two-of-me-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nThere's two of me (two of me)\nYou fell for the one in the clean shirt\nTwo of me (two of me)\nThe other one comes home smellin' like hurt\nOne holds the door for your mama\nOne leaves you cryin' in the car\nTwo of me (two of me)\nYou love the one that ain't in charge\n\n[Verse 1]\nSunday smile at your mama's table\nFolded program in my coat\nCologne thick over last night's smoke\nOne phone face up, one face down\nPrayin' voice for the prayer out loud\nKiss on the cheek, head full of static\n\n[Chorus]\nThere's two of me (two of me)\nThe night one drives, the day one pays\nTwo of me (two of me)\nYou keep the first, I keep the ways\nOne says the words like he means 'em\nOne means 'em till the lights go low\nTwo of me (two of me)\nYou love the one from the first hello\n\n[Breakdown]\nTwo of me...\nTwo of me...\nOne of me's lyin'\nBoth of me know\n\n[Final Chorus]\nThere's two of me (two of me)\nYou fell for the one in the clean shirt\nTwo of me (two of me)\nThe other one wrote this verse\nOne holds the door for your mama\nOne leaves you cryin' in the car\nTwo of me (two of me)\nYou love the one that ain't in charge"
   }
  ],
  "publicaciones": [
