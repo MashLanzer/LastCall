@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-19",
- "revision": "2026-11-20 01:08 ET",
+ "revision": "2026-11-20 02:17 ET",
  "app_version_code": 26,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -4729,6 +4729,70 @@
     }
    ],
    "letra": "[Chorus]\nStill got your voice\nSaved in my phone\nForty-seven seconds\nAnd I'm not alone\nYou say \"call me back\"\nLike you still mean it\nStill got your voice\nAnd I keep on needing it\n\n[Verse 1]\nYour mug is in my sink\nTwo weeks, I don't wash it\nYour side of the bed stays cold\nI sleep on the edge of it\n\n[Pre-Chorus]\nOne more play, then I'll sleep\nOne more play, then I'll sleep\n\n[Chorus]\nStill got your voice\nSaved in my phone\nForty-seven seconds\nThen the silence comes home\nYou laugh at second nine\nLike nothing ended\nStill got your voice\nAnd I keep on needing it\n\n[Instrumental Break]\n(piano and sub swell, loud and sustained, no vocals)\n\n[Verse 2]\nNew sheets, same old pillow\nYour charger in my wall\nI talk to an empty kitchen\nSay your name to no one at all\n\n[Pre-Chorus]\nOne more play, then I'll sleep\nOne more play, then I'll sleep\n\n[Final Chorus]\nStill got your voice\nSaved in my phone\nForty-seven seconds\nAnd I'm not alone\nYou say \"call me back\"\nLike you still mean it\nStill got your voice\nBut I won't press play tonight\n\n[Outro]\nForty-seven seconds\nThat's all I kept\nStill got your voice"
+  },
+  {
+   "titulo": "Answer Me",
+   "estado": "En la Sala",
+   "tomas": 4,
+   "bpm": "133",
+   "duracion": "2:30",
+   "puntaje": 55.5,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/i5E7smpX4b2tGMQN",
+     "tid": "answer-me-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/dvIYolVxWjc32Ec0",
+     "tid": "answer-me-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/gw1hil9sOdx4UY6K",
+     "tid": "answer-me-t3",
+     "n": 3,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/nzL8HJLdiMmoIBgR",
+     "tid": "answer-me-t4",
+     "n": 4,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nAnswer me, answer me\nTalkin' through the windshield again\nAnswer me, answer me\nSix years gone and I won't walk in\nRosary swingin' on the mirror\nTalkin' loud to an empty sky\nAnswer me, answer me\nSay somethin' — I'm still here\n\n[Verse 1]\nParked in Your lot with the engine on\nThree AM, coffee cold since one\nBible on the seat, spine cracked open\nHaven't read a word since I was seventeen\nI only show up when it all goes wrong\nThen I wonder why the line's gone dead\n\n[Pre-Chorus]\nSo I'm knockin', knockin' till my knuckles ache\nKnockin' like the door's gonna break\nIf it stays shut, I'll sleep in the car\nJust don't tell me You forgot my name\n\n[Chorus]\nAnswer me, answer me\nTalkin' through the windshield again\nAnswer me, answer me\nLot's gone dark and the night's worn thin\nRosary swingin' on the mirror\nTalkin' loud to an empty sky\nAnswer me, answer me\nSay somethin' — I'm still here\n\n[Bridge]\nI don't pray clean, I pray mad\nOnly call when it all goes bad\nLearned my faith from a runaway dad\nLord, don't let me end up like that\nDon't let me end up like that\n\n[Instrumental Interlude]\n(short synth pulse, no vocals)\n\n[Final Chorus]\nAnswer me, answer me\nTalkin' through the windshield again\nAnswer me, answer me\nSix years gone and I won't walk in\nRosary swingin' on the mirror\nTalkin' loud to an empty sky\nAnswer me, answer me\nSay somethin' — I'm still here\n\n[Outro]\nAnswer me (answer me)\nThrough the windshield again\nSix years gone\nI'm still here"
   }
  ],
  "publicaciones": [
@@ -4992,6 +5056,13 @@
     "creditos": 10,
     "fecha": "2026-11-19",
     "saldo": 1080
+   },
+   {
+    "mision": "Misión 10-C",
+    "canciones": 1,
+    "creditos": 20,
+    "fecha": "2026-11-20",
+    "saldo": 1060
    }
   ]
  },
