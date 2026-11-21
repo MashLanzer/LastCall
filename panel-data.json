@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-21",
- "revision": "2026-11-21 16:42 ET",
+ "revision": "2026-11-21 18:57 ET",
  "app_version_code": 36,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -4748,9 +4748,9 @@
      "n": 1,
      "marcas": {
       "like": false,
-      "dislike": false,
+      "dislike": true,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4776,7 +4776,7 @@
       "like": false,
       "dislike": false,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4787,9 +4787,9 @@
      "n": 4,
      "marcas": {
       "like": false,
-      "dislike": false,
+      "dislike": true,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4800,9 +4800,9 @@
      "n": 5,
      "marcas": {
       "like": false,
-      "dislike": false,
+      "dislike": true,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4813,9 +4813,9 @@
      "n": 6,
      "marcas": {
       "like": false,
-      "dislike": false,
+      "dislike": true,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -4838,9 +4838,9 @@
      "n": 1,
      "marcas": {
       "like": false,
-      "dislike": false,
+      "dislike": true,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4851,9 +4851,9 @@
      "n": 2,
      "marcas": {
       "like": false,
-      "dislike": false,
+      "dislike": true,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -4876,9 +4876,9 @@
      "n": 1,
      "marcas": {
       "like": false,
-      "dislike": false,
+      "dislike": true,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4889,9 +4889,9 @@
      "n": 2,
      "marcas": {
       "like": false,
-      "dislike": false,
+      "dislike": true,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -4914,9 +4914,9 @@
      "n": 1,
      "marcas": {
       "like": false,
-      "dislike": false,
+      "dislike": true,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     },
@@ -4927,9 +4927,9 @@
      "n": 2,
      "marcas": {
       "like": false,
-      "dislike": false,
+      "dislike": true,
       "produccion": false,
-      "escuchada": false,
+      "escuchada": true,
       "descartada": false
      }
     }
@@ -5185,7 +5185,7 @@
    "toma": "Toma 2"
   }
  ],
- "decisiones_en": 1795154895800,
+ "decisiones_en": 1795305404847,
  "lanzamientos": {
   "proximo": {
    "titulo": "Wide Awake",
