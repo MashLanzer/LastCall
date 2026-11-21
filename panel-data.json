@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-21",
- "revision": "2026-11-21 12:54 ET",
+ "revision": "2026-11-21 16:42 ET",
  "app_version_code": 36,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -4935,6 +4935,120 @@
     }
    ],
    "letra": "[Chorus]\nThere's two of me (two of me)\nYou fell for the one in the clean shirt\nTwo of me (two of me)\nThe other one comes home smellin' like hurt\nOne holds the door for your mama\nOne leaves you cryin' in the car\nTwo of me (two of me)\nYou love the one that ain't in charge\n\n[Verse 1]\nSunday smile at your mama's table\nFolded program in my coat\nCologne thick over last night's smoke\nOne phone face up, one face down\nPrayin' voice for the prayer out loud\nKiss on the cheek, head full of static\n\n[Chorus]\nThere's two of me (two of me)\nThe night one drives, the day one pays\nTwo of me (two of me)\nYou keep the first, I keep the ways\nOne says the words like he means 'em\nOne means 'em till the lights go low\nTwo of me (two of me)\nYou love the one from the first hello\n\n[Breakdown]\nTwo of me...\nTwo of me...\nOne of me's lyin'\nBoth of me know\n\n[Final Chorus]\nThere's two of me (two of me)\nYou fell for the one in the clean shirt\nTwo of me (two of me)\nThe other one wrote this verse\nOne holds the door for your mama\nOne leaves you cryin' in the car\nTwo of me (two of me)\nYou love the one that ain't in charge"
+  },
+  {
+   "titulo": "Don't Be Me",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "127",
+   "duracion": "2:30",
+   "puntaje": 53.0,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/sb8ca32YiXoDaaA7",
+     "tid": "dont-be-me-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/Evv2X2ipcPs9cU5X",
+     "tid": "dont-be-me-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Intro - Chant]\nDon't be me, don't be me\nTake the long way home tonight\nDon't be me, don't be me\nI'm the wrong turn, not the light\n\n[Verse 1]\nMy old jacket on your shoulders\nSleeves rolled up the way I showed you\nCorner store don't ask your age\nGot my face, they just wave you through\nCarved my name on the bathroom wall\nYou're carvin' yours right under it\n\n[Verse 2]\nFound my notebook in the closet\nBad math, worse plans, my own hand\nYou read that thing like a roadmap\nNot a wreck, not a warning sign\nMama asks where you were all night\nYou lie smooth — God, you sound like me\n\n[Chorus]\nDon't be me, don't be me\nI'm the smoke you shouldn't breathe\nDon't be me, don't be me\nEvery door I forced bled me\nYou got her prayers, I got her tears\nSame blood, same crooked grin\nDon't be me, don't be me\nKid, I'm beggin' — don't be me\n\n[Verse 3]\nCop lights paint your window blue\nSecond time this month, same street\nYou grin out from the back seat\nThat's my grin. That's my teeth.\n\n[Chorus]\nDon't be me, don't be me\nI'm the smoke you shouldn't breathe\nDon't be me, don't be me\nEvery door I forced bled me\nYou got her voice stuck in your head\nYou got my temper underneath\nDon't be me, don't be me\nKid, I'm beggin' — don't be me\n\n[Outro - Chant]\nDon't be me, don't be me\nSaid it so much it turned to noise\nDon't be me, don't be me\nYou just laugh in my own voice"
+  },
+  {
+   "titulo": "Should've Been Me",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "132",
+   "duracion": "2:30",
+   "puntaje": 56.0,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/3SnDMHQrVAQJ6g7b",
+     "tid": "shouldve-been-me-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/epp5CYTtTrg4ZlFZ",
+     "tid": "shouldve-been-me-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nShould've been me, should've been me\nYou took the keys, said \"sleep, I got this\"\nShould've been me, should've been me\nYour mama still sets your plate Sundays\nIn your seat and I can't taste it\nShould've been me, should've been me\nI'm livin' your life and I'm wastin' it\n\n[Verse 1]\nYour number's still saved under \"Bro\"\nThree years and I can't hit delete\nGroup chat went quiet back in March\nNobody types and nobody leaves\nYour jacket's still hangin' on my hook\nSmells like smoke and gas station coffee\n\n[Pre-Chorus]\nI was the drunk one, you were the good one\nThat's the part that won't let me sleep\n\n[Chorus]\nShould've been me, should've been me\nYou took the keys, said \"sleep, I got this\"\nShould've been me, should've been me\nYour mama lights a candle Sundays\nSays your name out loud to the table\nShould've been me, should've been me\nI'm livin' your life and I'm wastin' it\n\n[Instrumental Swell]\n(sustained swell, no vocals, louder than the voice)\n\n[Bridge]\nShould've been me\nSaid it at the grave, said it in the car\nShould've been me\nYour name on the stone, mine on a card I never sent\n\n[Final Chorus]\nShould've been me, should've been me\nYou took the keys, said \"sleep, I got this\"\nShould've been me, should've been me\nNow I set a plate for you at my table\nTalk to your chair like you're comin' home\nShould've been me, should've been me\nI'm livin' your life — leave me alone in it"
+  },
+  {
+   "titulo": "Sold It Cheap",
+   "estado": "En la Sala",
+   "tomas": 2,
+   "bpm": "139",
+   "duracion": "2:30",
+   "puntaje": 54.5,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/NTpsW0JSx1ibzADw",
+     "tid": "sold-it-cheap-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/7FCQZ5tTdcZZMSk1",
+     "tid": "sold-it-cheap-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nSold it cheap (sold it cheap)\nSigned my name on page nine\nSold it cheap (sold it cheap)\nNow a stranger owns my time\nHe smiled, I smiled, pen had his logo\nSold it cheap (sold it cheap)\nNever even read the fine print\n\n[Verse 1]\nCheck cleared on a Friday\nGone by Monday, every cent\nHe said \"we'll make you a star, kid\"\nI heard heaven in his accent\n\n[Verse 2]\nName in lights, one L missin'\nMama asks when the money comes\nSay \"soon\" — been sayin' it a year\nGreen room mirror don't look like me\n\n[Pre-Chorus]\nEvery song I write, he takes his cut first\nEvery door he opens comes with a lock\n\n[Chorus]\nSold it cheap (sold it cheap)\nSigned my name on page nine\nSold it cheap (sold it cheap)\nNow a stranger owns my time\nHe counts his cut before I count mine\nSold it cheap (sold it cheap)\nNever even read the fine print\n\n[Bridge]\nSold it cheap, sold it cheap\nCount it out, count it slow\nOne name, one pen, one signature\nAnd I still owe, and I still owe\n\n[Final Chorus]\nSold it cheap (sold it cheap)\nSigned my name on page nine\nSold it cheap (sold it cheap)\nNow I'm buyin' back what's mine\nPayin' double what he paid me\nSold it cheap (sold it cheap)\nAnd the bill still ain't done with me"
   }
  ],
  "publicaciones": [
@@ -5241,9 +5355,16 @@
     "fecha": "2026-11-20",
     "saldo": 1020,
     "nota": "Pedido de Brayan desde la app (ped-1795200630573): 1 Create = tomas T5 y T6 de «Answer Me»"
+   },
+   {
+    "mision": "Misión 12",
+    "canciones": 3,
+    "creditos": 30,
+    "fecha": "2026-11-21",
+    "saldo": 990
    }
   ],
-  "saldo_actual": 1020,
+  "saldo_actual": 990,
   "factura": "2026-12-10"
  },
  "detalle_publicadas": {
@@ -5422,7 +5543,10 @@
   "Don't Wait Up": "Gancho parcial · swell sin voz tras el coro · stomp-clap",
   "Just Like Him": "Verso primero · puente en dropout · pop-rock oscuro",
   "Two Of Me": "Coro en llamada-y-respuesta · orden invertido · electro dark pop",
-  "Still Got Your Voice": "Coro que abre · medio tiempo pesado (126 BPM)"
+  "Still Got Your Voice": "Coro que abre · medio tiempo pesado (126 BPM)",
+  "Don't Be Me": "Estrófica: cántico primero · dos versos sin coro · coro tardío · pop-rock oscuro",
+  "Should've Been Me": "Coro primero · swell sin voz tras el coro 2 · puente desnudo · sub latido",
+  "Sold It Cheap": "Ráfagas sin coro entre versos · puente en dropout · electro industrial"
  },
  "conceptos_muertos": [
   {
@@ -5531,6 +5655,30 @@
    8.0,
    10.0,
    9.0,
+   9.0
+  ],
+  "Don't Be Me": [
+   8.0,
+   8.5,
+   9.0,
+   10.0,
+   9.0,
+   8.5
+  ],
+  "Should've Been Me": [
+   9.0,
+   9.5,
+   9.5,
+   10.0,
+   9.0,
+   9.0
+  ],
+  "Sold It Cheap": [
+   8.0,
+   9.0,
+   9.0,
+   10.0,
+   9.5,
    9.0
   ]
  },
