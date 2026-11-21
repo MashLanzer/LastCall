@@ -2,7 +2,7 @@
  "version": 2,
  "actualizado": "2026-11-19",
  "revision": "2026-11-20 14:49 ET",
- "app_version_code": 30,
+ "app_version_code": 31,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
   "nombre": "LAST CALL",
@@ -23,7 +23,9 @@
  "proximo_lanzamiento": {
   "titulo": "Wide Awake",
   "fecha_iso": "2026-11-27",
-  "texto": "Sale el viernes 27/11/2026 · 24 tiendas · video oficial el mismo día"
+  "texto": "Sale el viernes 27/11/2026 · 24 tiendas · video oficial el mismo día",
+  "presave": "https://distrokid.com/hyperfollow/lastcall14/wide-awake",
+  "fecha_hora_iso": "2026-11-27T00:00:00-05:00"
  },
  "canciones": [
   {
@@ -5146,6 +5148,27 @@
     "paso": "Entregada en DistroKid y aceptada — sale el 27/11/2026",
     "detalle": "La toma subida es «Wide Awake (Stellar Cut Full v2)» T2"
    }
+  ],
+  "curadores": [
+   {
+    "cancion": "Sleep Tight",
+    "estado": "aprobada",
+    "playlist": "Lonely & Broke (Daily Playlists)",
+    "nota": "Aprobada el 17/11/2026"
+   },
+   {
+    "cancion": "Wide Awake",
+    "estado": "pendiente",
+    "playlist": "Daily Playlists",
+    "nota": "Se envía el 27/11/2026, en cuanto el enlace de Spotify esté en vivo (regla del 17/11)"
+   }
+  ],
+  "resultados": [
+   {
+    "cancion": "Wide Awake",
+    "estado": "pendiente",
+    "nota": "Sale el 27/11/2026; la medición de los 7 días toca el 04/12/2026. Sin cifras hasta entonces."
+   }
   ]
  },
  "historial_stats": {
@@ -5219,7 +5242,9 @@
     "saldo": 1020,
     "nota": "Pedido de Brayan desde la app (ped-1795200630573): 1 Create = tomas T5 y T6 de «Answer Me»"
    }
-  ]
+  ],
+  "saldo_actual": 1020,
+  "factura": "2026-12-10"
  },
  "detalle_publicadas": {
   "Sleep Tight": {
@@ -5340,5 +5365,191 @@
     ]
    ]
   }
+ },
+ "cuentas": [
+  {
+   "red": "Instagram",
+   "cuenta": "@mashlanzer.new",
+   "estado": "ok",
+   "nota": "Cuenta oficial del artista desde el 17/11/2026"
+  },
+  {
+   "red": "Threads",
+   "cuenta": "@mashlanzer.new",
+   "estado": "ok",
+   "nota": "Cuenta oficial del artista desde el 17/11/2026"
+  },
+  {
+   "red": "X",
+   "cuenta": "@lastcalldarkpop",
+   "estado": "ok",
+   "nota": ""
+  },
+  {
+   "red": "TikTok",
+   "cuenta": "@noduermas_terror",
+   "estado": "aviso",
+   "nota": "Sesión cerrada: hay piezas en espera; se entra de nuevo desde el teléfono"
+  },
+  {
+   "red": "SoundCloud",
+   "cuenta": "lastcallofficial",
+   "estado": "ok",
+   "nota": ""
+  },
+  {
+   "red": "YouTube",
+   "cuenta": "LAST CALL (canal oficial)",
+   "estado": "ok",
+   "nota": ""
+  },
+  {
+   "red": "Instagram (anterior)",
+   "cuenta": "@lastcall.music",
+   "estado": "historica",
+   "nota": "Inhabilitada por Meta el 17/11/2026 — histórico, no es una alarma"
+  },
+  {
+   "red": "Threads (anterior)",
+   "cuenta": "@lastcall.music",
+   "estado": "historica",
+   "nota": "Desactivada el 17/11/2026 — histórico, no es una alarma"
+  }
+ ],
+ "arquitecturas": {
+  "Wide Awake": "La plantilla de la casa: verso escaso con piano desafinado · ruptura sin voz · coro final con giro",
+  "Answer Me": "Coro primero · puente cantado · electrónica",
+  "Don't Wait Up": "Gancho parcial · swell sin voz tras el coro · stomp-clap",
+  "Just Like Him": "Verso primero · puente en dropout · pop-rock oscuro",
+  "Two Of Me": "Coro en llamada-y-respuesta · orden invertido · electro dark pop",
+  "Still Got Your Voice": "Coro que abre · medio tiempo pesado (126 BPM)"
+ },
+ "conceptos_muertos": [
+  {
+   "concepto": "Category Five",
+   "puntaje": 28.0,
+   "fecha": "15/11/2026",
+   "motivo": "No pasa por unanimidad (Corrida 1): historia narrada con desenlace, no instantáneas — el mismo diagnóstico que dio Brayan."
+  },
+  {
+   "concepto": "Kerosene",
+   "puntaje": 43.7,
+   "fecha": "15/11/2026",
+   "motivo": "No pasa (Corrida 1): el gancho llega tarde (criterio 4 en 4,7) y la línea de la gasolina se contradice («you're the fire and I'm the gasoline»)."
+  },
+  {
+   "concepto": "Two Left Feet",
+   "puntaje": 39.0,
+   "fecha": "15/11/2026",
+   "motivo": "No pasa (Corrida 1): gancho tarde (criterio 4 en 3,0) y verso 1 en secuencia en vez de instantáneas."
+  }
+ ],
+ "panel_criterios": {
+  "Don't Save Me": [
+   8.0,
+   8.5,
+   9.0,
+   10.0,
+   9.5,
+   8.5
+  ],
+  "Can't Shake You": [
+   9.0,
+   9.5,
+   7.5,
+   10.0,
+   9.5,
+   9.5
+  ],
+  "Bad For Me": [
+   7.0,
+   9.0,
+   9.0,
+   10.0,
+   9.5,
+   8.0
+  ],
+  "Still Your Son": [
+   8.5,
+   9.5,
+   9.0,
+   10.0,
+   8.0,
+   9.0
+  ],
+  "I'm Good": [
+   8.0,
+   9.5,
+   8.0,
+   10.0,
+   9.5,
+   9.5
+  ],
+  "Better Off": [
+   8.5,
+   9.5,
+   9.0,
+   10.0,
+   8.5,
+   9.0
+  ],
+  "Still Got Your Voice": [
+   9.0,
+   8.5,
+   8.5,
+   10.0,
+   9.0,
+   9.5
+  ],
+  "Answer Me": [
+   9.0,
+   9.0,
+   9.5,
+   10.0,
+   9.0,
+   9.0
+  ],
+  "Don't Wait Up": [
+   9.0,
+   9.0,
+   9.0,
+   10.0,
+   9.5,
+   8.5
+  ],
+  "Just Like Him": [
+   9.0,
+   8.5,
+   8.0,
+   9.5,
+   9.0,
+   9.0
+  ],
+  "Two Of Me": [
+   8.5,
+   9.0,
+   8.0,
+   10.0,
+   9.0,
+   9.0
+  ]
+ },
+ "referentes": {
+  "espejo": "Stellar",
+  "nota": "Lista cerrada de referentes de escritura (orden de Brayan, 19/11/2026): Stellar, Connor Kauffman y Red Leather, más «Wide Awake» y «Sleep Tight». Ningún otro entra en la escritura, la lectura en frío ni el panel.",
+  "patrones": [
+   {
+    "nombre": "Stellar (el espejo)",
+    "patron": "El yo roto que se esconde tras la máscara y finge estar bien («Masquerade», la favorita de Brayan; «Ashes», «Mistake»: el amor como veneno que no suelta). Coro-cántico de 4–8 líneas cortas, coreable a la primera."
+   },
+   {
+    "nombre": "Connor Kauffman",
+    "patron": "El amor como parásito que drena («Parasite», «Bleed», «Death Of Me»). Rima la palabra del título consigo misma en cadena (parasite / paralyzed / paradise); el reflejo en el espejo es otra persona («Skin Of A Saint», «Echoes»)."
+   },
+   {
+    "nombre": "Red Leather",
+    "patron": "La noche en que casi no vuelve: bar, vicio, culpa y una llamada que salva («LAST CALL», «SINS»: «Padre, perdóname»). Cuenta dentro del gancho («One more shot… two more bumps…») y repite el remate hasta que duele."
+   }
+  ]
  }
 }
