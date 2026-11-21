@@ -1,7 +1,7 @@
 {
  "version": 2,
- "actualizado": "2026-11-19",
- "revision": "2026-11-21 00:19 ET",
+ "actualizado": "2026-11-21",
+ "revision": "2026-11-21 12:54 ET",
  "app_version_code": 35,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -16,9 +16,9 @@
  "stats": {
   "spotify_oyentes": 2,
   "youtube_subs": 7,
-  "canciones": 120,
-  "tomas": 243,
-  "youtube_vistas": 757
+  "canciones": 128,
+  "tomas": 263,
+  "youtube_vistas": 867
  },
  "proximo_lanzamiento": {
   "titulo": "Wide Awake",
@@ -5274,11 +5274,11 @@
    "estadisticas": [
     [
      "Video oficial (YouTube)",
-     "55 vistas · 19/11/2026"
+     "57 vistas · 21/11/2026"
     ],
     [
      "Lyric Video (YouTube)",
-     "99 vistas · 19/11/2026"
+     "101 vistas · 21/11/2026"
     ],
     [
      "Curadores",
