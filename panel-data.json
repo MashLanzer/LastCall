@@ -1,7 +1,7 @@
 {
  "version": 2,
- "actualizado": "2026-11-22",
- "revision": "2026-11-22 12:55 ET",
+ "actualizado": "2026-11-24",
+ "revision": "2026-11-24 12:54 ET",
  "app_version_code": 36,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -16,7 +16,7 @@
  "stats": {
   "spotify_oyentes": 2,
   "youtube_subs": 7,
-  "youtube_vistas": 876,
+  "youtube_vistas": 898,
   "canciones": 131,
   "tomas": 269
  },
@@ -5395,11 +5395,11 @@
    "estadisticas": [
     [
      "Video oficial (YouTube)",
-     "57 vistas · 22/11/2026"
+     "58 vistas · 24/11/2026"
     ],
     [
      "Lyric Video (YouTube)",
-     "101 vistas · 22/11/2026"
+     "101 vistas · 24/11/2026"
     ],
     [
      "Curadores",
