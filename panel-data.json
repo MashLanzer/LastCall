@@ -1,7 +1,7 @@
 {
  "version": 2,
- "actualizado": "2026-11-24",
- "revision": "2026-11-24 12:54 ET",
+ "actualizado": "2026-11-25",
+ "revision": "2026-11-25 12:54 ET",
  "app_version_code": 36,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -16,9 +16,9 @@
  "stats": {
   "spotify_oyentes": 2,
   "youtube_subs": 7,
-  "youtube_vistas": 898,
-  "canciones": 131,
-  "tomas": 269
+  "youtube_vistas": 940,
+  "canciones": 134,
+  "tomas": 275
  },
  "proximo_lanzamiento": {
   "titulo": "Wide Awake",
@@ -183,7 +183,7 @@
    "titulo": "2 A.M. — Prueba rápida (145 bpm)",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "145",
+   "bpm": "",
    "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
@@ -217,7 +217,7 @@
    "titulo": "Wide Awake — Prueba rápida (148 bpm)",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "148",
+   "bpm": "",
    "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
@@ -275,7 +275,7 @@
    "titulo": "Red Moon — Prueba rápida (142 bpm)",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "142",
+   "bpm": "",
    "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
@@ -727,8 +727,8 @@
    "titulo": "Wide Awake (Stellar Cut Full v2)",
    "estado": "En producción",
    "tomas": 2,
-   "bpm": "125",
-   "duracion": "2:29",
+   "bpm": "",
+   "duracion": "",
    "tiene_portada": true,
    "tomas_detalle": [
     {
@@ -3616,7 +3616,7 @@
    "titulo": "Bad Idea",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "122",
+   "bpm": "",
    "duracion": "",
    "puntaje": 49.7,
    "tiene_portada": false,
@@ -3654,7 +3654,7 @@
    "titulo": "Told You So",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "116",
+   "bpm": "",
    "duracion": "",
    "puntaje": 50.5,
    "tiene_portada": false,
@@ -3692,7 +3692,7 @@
    "titulo": "Act My Age",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "140",
+   "bpm": "",
    "duracion": "",
    "puntaje": 54.0,
    "tiene_portada": false,
@@ -3730,7 +3730,7 @@
    "titulo": "Nine Lives",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "128",
+   "bpm": "",
    "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
@@ -3767,7 +3767,7 @@
    "titulo": "Payday",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "106",
+   "bpm": "",
    "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
@@ -3804,7 +3804,7 @@
    "titulo": "Marquee",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "118",
+   "bpm": "",
    "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
@@ -3952,7 +3952,7 @@
    "titulo": "Cover Up",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "125",
+   "bpm": "",
    "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
@@ -3989,7 +3989,7 @@
    "titulo": "Stay Down",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "125",
+   "bpm": "",
    "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
@@ -4026,7 +4026,7 @@
    "titulo": "Blackout",
    "estado": "Te gusta",
    "tomas": 2,
-   "bpm": "125",
+   "bpm": "",
    "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
@@ -4063,8 +4063,8 @@
    "titulo": "Racing Heart",
    "estado": "Te gusta",
    "tomas": 2,
-   "bpm": "142",
-   "duracion": "2:38",
+   "bpm": "",
+   "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
     {
@@ -4100,8 +4100,8 @@
    "titulo": "All In",
    "estado": "Descartada",
    "tomas": 2,
-   "bpm": "128",
-   "duracion": "2:29",
+   "bpm": "",
+   "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
     {
@@ -4137,8 +4137,8 @@
    "titulo": "One Way",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "134",
-   "duracion": "2:38",
+   "bpm": "",
+   "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
     {
@@ -4174,8 +4174,8 @@
    "titulo": "No Net",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "140",
-   "duracion": "2:38",
+   "bpm": "",
+   "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
     {
@@ -4285,8 +4285,8 @@
    "titulo": "On Air",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "139",
-   "duracion": "3:07",
+   "bpm": "",
+   "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
     {
@@ -4322,8 +4322,8 @@
    "titulo": "Rooftop",
    "estado": "Bancada",
    "tomas": 2,
-   "bpm": "130",
-   "duracion": "4:03",
+   "bpm": "",
+   "duracion": "",
    "tiene_portada": false,
    "tomas_detalle": [
     {
@@ -5049,6 +5049,117 @@
     }
    ],
    "letra": "[Chorus]\nSold it cheap (sold it cheap)\nSigned my name on page nine\nSold it cheap (sold it cheap)\nNow a stranger owns my time\nHe smiled, I smiled, pen had his logo\nSold it cheap (sold it cheap)\nNever even read the fine print\n\n[Verse 1]\nCheck cleared on a Friday\nGone by Monday, every cent\nHe said \"we'll make you a star, kid\"\nI heard heaven in his accent\n\n[Verse 2]\nName in lights, one L missin'\nMama asks when the money comes\nSay \"soon\" — been sayin' it a year\nGreen room mirror don't look like me\n\n[Pre-Chorus]\nEvery song I write, he takes his cut first\nEvery door he opens comes with a lock\n\n[Chorus]\nSold it cheap (sold it cheap)\nSigned my name on page nine\nSold it cheap (sold it cheap)\nNow a stranger owns my time\nHe counts his cut before I count mine\nSold it cheap (sold it cheap)\nNever even read the fine print\n\n[Bridge]\nSold it cheap, sold it cheap\nCount it out, count it slow\nOne name, one pen, one signature\nAnd I still owe, and I still owe\n\n[Final Chorus]\nSold it cheap (sold it cheap)\nSigned my name on page nine\nSold it cheap (sold it cheap)\nNow I'm buyin' back what's mine\nPayin' double what he paid me\nSold it cheap (sold it cheap)\nAnd the bill still ain't done with me"
+  },
+  {
+   "titulo": "Say It Back",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "127",
+   "duracion": "2:30",
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/XWg2JjRE4YaCNZO8",
+     "tid": "say-it-back-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/aUbXKabXQJKGQV5k",
+     "tid": "say-it-back-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Verse 1]\nYou stopped sayin' it last month\nUsed to say it with the lights out\nI'd say \"you too\" like a coward\nThree words stuck in my mouth\nCoffee's on at six-forty\nYour side of the car's warm\nEverything I do says it\nEverything but the words\n\n[Pre-Chorus]\nSay it back, say it back\nYou don't ask anymore\n\n[Chorus]\nSay it back, say it back\nThat's all you ever asked\nI say stay, I say don't go\nI say it all but that\nSay it back, say it back\nNow you don't even ask\n\n[Instrumental Break - strings swell, no vocals]\n\n[Verse 2]\nTyped it out eleven times\nDeleted every one\nSent \"drive safe\" instead\nLike a man on the run\nYour keys land in my bowl\nYou fall asleep on me\nMy mouth's a locked door, love\nAnd you're done knockin'\n\n[Pre-Chorus]\nSay it back, say it back\nYou stopped askin' me\n\n[Chorus]\nSay it back, say it back\nThat's all you ever asked\nI say stay, I say please don't go\nI say it all but that\nSay it back, say it back\nNow you sleep facin' the wall\n\n[Outro]\nYou said it in your sleep last night\nLike a habit you can't shake\nI whispered it back to the dark\nFirst time. You didn't wake."
+  },
+  {
+   "titulo": "You Look Happy",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "132",
+   "duracion": "2:30",
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/aQiAn1lKZi5xAN2C",
+     "tid": "you-look-happy-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/VMKXJr6JXi8203SM",
+     "tid": "you-look-happy-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Verse 1]\nYou look happy in the pictures\nHis hand low on your back\nSunday light, somebody's porch\nYou're laughin', head thrown back\n\n[Chorus]\nYou look happy, you look happy\nThat's what I get for lookin'\nYou look happy, you look happy\nTwo a.m. and I'm still lookin'\n\n[Verse 2]\nHe got the dog I wouldn't get\nThe porch I promised \"someday\"\nYour sister's kid on your hip\nA whole life in one frame\n\n[Chorus]\nYou look happy, you look happy\nThumb hovers over \"like\"\nYou look happy, you look happy\nI don't touch it. Not tonight.\n\n[Bridge]\nI tell my friends I never check\nTell 'em I deleted your name\nTruth is you're the last tab open\nEvery night. Same shame.\n\n[Chorus]\nYou look happy, you look happy\nAnd I look happy in mine too\nTwo liars in two bright pictures\nPretendin' we both made it through"
+  },
+  {
+   "titulo": "Last One, I Swear",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "139",
+   "duracion": "2:30",
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/Alw18ozVFNyj5wzN",
+     "tid": "last-one-i-swear-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/RtRMpOKPb4tQFImM",
+     "tid": "last-one-i-swear-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Verse 1]\nHe pours before I ask him\nTab's got my name spelled wrong\nClock over the bottles says eleven\nI say the words like a song\n\n[Chorus]\nLast one, I swear, last one, I swear\nSaid it at eleven, still sayin' it at two\nLast one, I swear, last one, I swear\nGod and this bartender heard it too\n\n[Verse 2]\nFingers crossed like a kid does\nSix blocks home, I drive slow\nPhone face-down on the counter\nHer name lights up, I let it go\n\n[Chorus]\nLast one, I swear, last one, I swear\nOne for the road I keep takin'\nLast one, I swear, last one, I swear\nEvery promise here's one I'm breakin'\n\n[Instrumental Build - rising, no vocals]\n\nLast one. I swear.\n\n[Chorus]\nLast one, I swear, last one, I swear\nSaid it so much it's just bar noise now\nLast one, I swear, last one, I swear\nHe's pourin' the next 'fore the words are out"
   }
  ],
  "publicaciones": [
@@ -5395,11 +5506,11 @@
    "estadisticas": [
     [
      "Video oficial (YouTube)",
-     "58 vistas · 24/11/2026"
+     "58 vistas · 25/11/2026"
     ],
     [
      "Lyric Video (YouTube)",
-     "101 vistas · 24/11/2026"
+     "101 vistas · 25/11/2026"
     ],
     [
      "Curadores",
