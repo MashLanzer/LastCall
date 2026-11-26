@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-25",
- "revision": "2026-11-26 02:48 ET",
+ "revision": "2026-11-26 11:03 ET",
  "app_version_code": 36,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -5388,6 +5388,120 @@
     }
    ],
    "letra": "[Chorus]\nYou don't live here\nThrough the door, she said it low\nYou don't live here anymore\nChain on, lights on, voice like stone\n\"You don't live here anymore\"\n\n[Verse 1]\n4:12, same old knock\nMy key don't even turn\nGrey car sittin' in my spot\nHer shadow at the curtain\nBackpack on the step beside me\nEverything I own, zipped up\nHundred nights she took me back\nThis one, she ain't takin'\n\n[Chorus]\nYou don't live here\nNew lock shinin' where mine was\nYou don't live here anymore\nNo yellin', no cryin', just facts\n\"You don't live here anymore\"\n\n[Verse 2]\nSat on the cold step laughin'\nName's still on the mailbox, though\nHalf my life in garbage bags\nWaitin' out here on the road\nKettle whistlin' in her kitchen\nSomebody pourin' two\nEvery sound inside that house\nSays, boy, it ain't for you\n\n[Chorus]\nYou don't live here\nAnd I finally stood up\nYou don't live here anymore\nKept the key. It opens nothin'.\nKept it anyway. So what.\nWalked off down her street at dawn\n\"You don't live here anymore\""
+  },
+  {
+   "titulo": "Still My Password",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "127",
+   "duracion": "2:30",
+   "puntaje": 54.0,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/ZwP55sZXyLupxFCn",
+     "tid": "still-my-password-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/HX1a20OxFQrAW9oh",
+     "tid": "still-my-password-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nYou're still my password\nYou're still my password\nYour name, the year we met\nOpens everything I own\n\n[Verse 1]\nBank app at seven a.m.\nThumb moves before I think\nNew phone, first setup screen\nTyped you in, didn't blink\nWork computer, Monday login\nSame old name, same old year\nEvery door I own still opens\nLike you never left here\n\n[Pre-Chorus]\nSay it, type it, let me in\nSay it, type it, let me in\n\n[Chorus]\nYou're still my password\nYou're still my password\nYour name, the year we met\nOpens everything I own\nChanged my locks last winter\nNever changed a thing in here\n\n[Verse 2]\nNew girl saw me type it\n\"Who's that?\" — I said \"no one\"\nForgot-password emails pile up\nI never open one\nFace ID fails when I'm tired\nSo I spell you out instead\nEvery screen in this apartment\nStill lets you in, in the end\n\n[Pre-Chorus]\nSay it, type it, let me in\nSay it, type it, let me in\n\n[Chorus]\nYou're still my password\nYou're still my password\nYour name, the year we met\nOpens everything I own\nDeleted every photo of us\nNever touched the lock screen\n\n[Synth Break]\n\n[Chorus]\nYou're still my password\nYou're still my password\nYour name, the year we met\nI just add a two at the end\nCan't delete you, so I update you\nVersion two of letting go"
+  },
+  {
+   "titulo": "Never Said My Name",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "132",
+   "duracion": "2:30",
+   "puntaje": 47.0,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/OgxNoYOCm65AbVlu",
+     "tid": "never-said-my-name-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/fwGReT7ZVdNPd0ZV",
+     "tid": "never-said-my-name-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Verse 1]\nTwo years in, your friends still ask\n\"Who's this?\" when I walk in\nYou laugh, say \"just a friend of mine\"\nPour me a drink, change the subject\nIn your phone I'm just an M\nIn your photos, my shoulder's cut out\n\n[Refrain]\nYou never said my name\n\n[Verse 2]\nFriday nights at your sister's place\nI hold your heels by the door\nYou dance in every picture\nI wait where the coats hang\nKiss me in the parking lot\nIn the light, I'm a stranger again\n\n[Refrain]\nYou never said my name\n\n[Verse 3]\nYour mama asks who's on the phone\nYou say \"nobody\" — I'm right here\nI know every room of your life\nFrom the hallway, looking in\nLoved you out loud for two years\nYou loved me on mute\n\n[Refrain]\nYou never said my name\nSay it once — say it like you mean it\nYou never said my name\n\n[Instrumental Outro]"
+  },
+  {
+   "titulo": "Win Every Fight",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "139",
+   "duracion": "2:30",
+   "puntaje": 52.5,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/UZWP1wtqJ5JGKUUJ",
+     "tid": "win-every-fight-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/u0VXOQjXy3lgSUl0",
+     "tid": "win-every-fight-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nI win every fight\nI win every fight\nSay the perfect line, right on time\nThree hours after you left\nI win every fight\nToo bad you ain't here to lose it\n\n[Verse 1]\nShower steam, I'm mid-speech\nWinning points off the tile\nCar ride home, I cross-examine\nEvery red light for a mile\nMirror gets the closing statement\nJury of one says \"not guilty\"\n\n[Pre-Chorus]\nShould've said it when it counted\nShould've said it when it counted\n\n[Chorus]\nI win every fight\nI win every fight\nSay the perfect line, right on time\nThree hours too late\nI win every fight\nCrowd goes wild in an empty kitchen\n\n[Verse 2]\n3 a.m., I reopen the case\nEvidence: your last text\nI object to my own witness\nI object — sustained\nTrophy shelf in my head's full\nHouse stays empty, though\n\n[Pre-Chorus]\nShould've said it when it counted\nShould've said it when it counted\n\n[Breakdown]\nSay it now — nobody answers\nSay it now — nobody answers\n\n[Chorus]\nI win every fight\nI win every fight\nUndefeated, undisputed\nChampion of an empty house\nI win every fight\nAnd I'd trade every win for one more round"
   }
  ],
  "publicaciones": [
@@ -5722,9 +5836,16 @@
     "creditos": 30,
     "fecha": "2026-11-26",
     "saldo": 900
+   },
+   {
+    "mision": "Misión 16",
+    "canciones": 3,
+    "creditos": 30,
+    "fecha": "2026-11-26",
+    "saldo": 870
    }
   ],
-  "saldo_actual": 900,
+  "saldo_actual": 870,
   "factura": "2026-12-10"
  },
  "detalle_publicadas": {
