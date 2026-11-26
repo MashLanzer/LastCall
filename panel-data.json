@@ -5715,9 +5715,16 @@
     "creditos": 30,
     "fecha": "2026-11-25",
     "saldo": 930
+   },
+   {
+    "mision": "Misión 15",
+    "canciones": 3,
+    "creditos": 30,
+    "fecha": "2026-11-26",
+    "saldo": 900
    }
   ],
-  "saldo_actual": 930,
+  "saldo_actual": 900,
   "factura": "2026-12-10"
  },
  "detalle_publicadas": {
