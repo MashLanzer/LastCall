@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-26",
- "revision": "2026-11-26 12:53 ET",
+ "revision": "2026-11-26 13:35 ET",
  "app_version_code": 36,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -17,8 +17,8 @@
   "spotify_oyentes": 2,
   "youtube_subs": 7,
   "youtube_vistas": 950,
-  "canciones": 137,
-  "tomas": 281
+  "canciones": 146,
+  "tomas": 299
  },
  "proximo_lanzamiento": {
   "titulo": "Wide Awake",
@@ -5502,6 +5502,120 @@
     }
    ],
    "letra": "[Chorus]\nI win every fight\nI win every fight\nSay the perfect line, right on time\nThree hours after you left\nI win every fight\nToo bad you ain't here to lose it\n\n[Verse 1]\nShower steam, I'm mid-speech\nWinning points off the tile\nCar ride home, I cross-examine\nEvery red light for a mile\nMirror gets the closing statement\nJury of one says \"not guilty\"\n\n[Pre-Chorus]\nShould've said it when it counted\nShould've said it when it counted\n\n[Chorus]\nI win every fight\nI win every fight\nSay the perfect line, right on time\nThree hours too late\nI win every fight\nCrowd goes wild in an empty kitchen\n\n[Verse 2]\n3 a.m., I reopen the case\nEvidence: your last text\nI object to my own witness\nI object — sustained\nTrophy shelf in my head's full\nHouse stays empty, though\n\n[Pre-Chorus]\nShould've said it when it counted\nShould've said it when it counted\n\n[Breakdown]\nSay it now — nobody answers\nSay it now — nobody answers\n\n[Chorus]\nI win every fight\nI win every fight\nUndefeated, undisputed\nChampion of an empty house\nI win every fight\nAnd I'd trade every win for one more round"
+  },
+  {
+   "titulo": "I'll Drive You Home",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "127",
+   "duracion": "2:30",
+   "puntaje": 53.5,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/7d4XeekcLM8bEeKT",
+     "tid": "ill-drive-you-home-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/LM9CS7F5Wo1qbe5T",
+     "tid": "ill-drive-you-home-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nI'll drive you home, I'll drive you home\nHeels kicked off by the door\nI'll drive you home, I'll drive you home\nSafe pair of hands, nothing more\n\n[Verse 1]\nTwelve-oh-four, my phone lights up\n\"Come get me\" — I'm already up\nHe's slow-dancing with somebody new\nYou're barefoot out on the curb\nGas station coffee in the cup holder, cold\nYou hum in your sleep, off-key\n\n[Pre-Chorus]\nI'd drive all night to keep you near\nI'd drive all night to keep you near\n\n[Verse 2]\nSeat leaned back, hair on the glass\nParty dress, mascara run\nWoke up once, grabbed my sleeve\n\"Don't let me fall for him again\"\nThen you fell asleep on me\nStreetlight's still out on Maple\n\n[Pre-Chorus]\nI'd burn the tank to keep you near\nI'd burn the tank to keep you near\n\n[Chorus]\nI'll drive you home, I'll drive you home\nHeels kicked off by the door\nI'll drive you home, I'll drive you home\nSafe pair of hands, nothing more\nYou trust me with the worst nights\nNever once with your heart\nI'll drive you home, I'll drive you home\nThen I drive home in the dark\n\n[Synth Break]\n\n[Chorus]\nI'll drive you home, I'll drive you home\nHeels kicked off by the door\nHalf asleep, you pull my sleeve\n\"Don't take me home — just drive\"\nI'll drive you home, I'll drive you home\nSafe pair of hands, nothing more\nSo I pass your street on purpose\nAnd I drive, and I drive"
+  },
+  {
+   "titulo": "Said I Do",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "132",
+   "duracion": "2:30",
+   "puntaje": 54.0,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/ckgH5raZ1srTwHqp",
+     "tid": "said-i-do-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:31",
+     "suno": "https://suno.com/s/tiDrrQpQ8Sn6M4xH",
+     "tid": "said-i-do-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nYou said I do, you said I do\nWhite dress — and it wasn't for me\nYou said I do, you said I do\nI smiled in the photos, row three\nYou said I do, you said I do\nTo a man who's never heard you laugh\nYou said I do, you said I do\nAnd I clapped with all the guests\n\n[Verse 1]\nBorrowed suit, sleeves too long\nEnvelope with my last two hundred\nYour dad cried when you danced at nine\nBand played it slow, you looked happy\nConfetti stuck in my hair\nYour mama hugged me — \"you're family\"\n\n[Pre-Chorus]\nPracticed my words in the parking lot\nLeft every one in the car\n\n[Chorus]\nYou said I do, you said I do\nWhite dress — and it wasn't for me\nYou said I do, you said I do\nI smiled in the photos, row three\nYou said I do, you said I do\nVows like a door slamming shut\nYou said I do, you said I do\nAnd I clapped with all the guests\n\n[Verse 2]\nHe don't know you snore a little\nOr how you take your coffee black\nHe don't know the song that wrecks you\nOr the scar along your back\nHe gets the name, the house, the ring\nI get row three and the long drive back\n\n[Bridge]\nI do, I do — I mouthed it too\nBack row, quiet as a prayer\nI do, I do — nobody heard\nJust the bells in the cold night air\n\n[Chorus]\nYou said I do, you said I do\nWhite dress — and it wasn't for me\nYou said I do, you said I do\nI smiled in the photos, row three\nYou said I do, you said I do\nTo a man who's never heard you laugh\nI said I do — to an empty car\nAll the way home, I said it back"
+  },
+  {
+   "titulo": "Break It First",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "139",
+   "duracion": "2:30",
+   "puntaje": 55.0,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/lT7g6wnfPkUUZ79M",
+     "tid": "break-it-first-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/CCAXZvNFnvX4ELxG",
+     "tid": "break-it-first-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Hook]\nIf it's gonna break, I'll break it first\nIf it's gonna break, I'll break it first\n\n[Verse 1]\nThree good weeks, I pick a fight\nOver dishes, over nothing, over tone\nFlowers on the counter scare me\nGood things never last in this home\n\n[Chorus]\nI break it first, I break it first\nBeat you to the hurt, beat you to the worst\nLeave at eleven, don't say goodbye\n2 a.m. text — \"we need to talk\"\nCan't break my heart, can't break my heart\nI break it first, I break it first\n\n[Verse 2]\nNew girl laughing in my kitchen\nI'm planning my goodbye by dessert\nShe says \"you're somewhere else again\"\nI'm already out the door in my head\n\n[Chorus]\nI break it first, I break it first\nBeat you to the hurt, beat you to the worst\nKiss you goodnight, one foot in the hall\nSay \"I'm fine\" through my teeth, plan the fall\nCan't break my heart, can't break my heart\nI break it first, I break it first\n\n[Verse 3]\nTold my friends that she's \"too much\"\nShe was just enough — that's the sickness\nGot a bag half-packed in the closet\nSince the second week of June\n\n[Bass Break]\n\n[Chorus]\nI break it first, I break it first\nBeat you to the hurt, beat you to the worst\nYou were gonna stay — that's the worst part\nYou were gonna stay, you were gonna stay\nCan't break my heart, can't break my heart\nSo I break it first, I break it first"
   }
  ],
  "publicaciones": [
@@ -5638,7 +5752,7 @@
    "toma": "Toma 2"
   }
  ],
- "decisiones_en": 1795305404847,
+ "decisiones_en": 1795718139860,
  "lanzamientos": {
   "proximo": {
    "titulo": "Wide Awake",
@@ -5843,9 +5957,16 @@
     "creditos": 30,
     "fecha": "2026-11-26",
     "saldo": 870
+   },
+   {
+    "mision": "Misión 17",
+    "canciones": 3,
+    "creditos": 40,
+    "fecha": "2026-11-26",
+    "saldo": 830
    }
   ],
-  "saldo_actual": 870,
+  "saldo_actual": 830,
   "factura": "2026-12-10"
  },
  "detalle_publicadas": {
