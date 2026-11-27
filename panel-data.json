@@ -1,7 +1,7 @@
 {
  "version": 2,
- "actualizado": "2026-11-26",
- "revision": "2026-11-26 13:35 ET",
+ "actualizado": "2026-11-27",
+ "revision": "2026-11-27 01:30 ET",
  "app_version_code": 36,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -17,8 +17,8 @@
   "spotify_oyentes": 2,
   "youtube_subs": 7,
   "youtube_vistas": 950,
-  "canciones": 146,
-  "tomas": 299
+  "canciones": 149,
+  "tomas": 305
  },
  "proximo_lanzamiento": {
   "titulo": "Wide Awake",
@@ -5616,6 +5616,120 @@
     }
    ],
    "letra": "[Hook]\nIf it's gonna break, I'll break it first\nIf it's gonna break, I'll break it first\n\n[Verse 1]\nThree good weeks, I pick a fight\nOver dishes, over nothing, over tone\nFlowers on the counter scare me\nGood things never last in this home\n\n[Chorus]\nI break it first, I break it first\nBeat you to the hurt, beat you to the worst\nLeave at eleven, don't say goodbye\n2 a.m. text — \"we need to talk\"\nCan't break my heart, can't break my heart\nI break it first, I break it first\n\n[Verse 2]\nNew girl laughing in my kitchen\nI'm planning my goodbye by dessert\nShe says \"you're somewhere else again\"\nI'm already out the door in my head\n\n[Chorus]\nI break it first, I break it first\nBeat you to the hurt, beat you to the worst\nKiss you goodnight, one foot in the hall\nSay \"I'm fine\" through my teeth, plan the fall\nCan't break my heart, can't break my heart\nI break it first, I break it first\n\n[Verse 3]\nTold my friends that she's \"too much\"\nShe was just enough — that's the sickness\nGot a bag half-packed in the closet\nSince the second week of June\n\n[Bass Break]\n\n[Chorus]\nI break it first, I break it first\nBeat you to the hurt, beat you to the worst\nYou were gonna stay — that's the worst part\nYou were gonna stay, you were gonna stay\nCan't break my heart, can't break my heart\nSo I break it first, I break it first"
+  },
+  {
+   "titulo": "Lie To Me",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "127",
+   "duracion": "2:30",
+   "puntaje": 54.0,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/8OE0tcoyVEkOJOtU",
+     "tid": "lie-to-me-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/wrxt4jG8wlmGJQPE",
+     "tid": "lie-to-me-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nLie to me, lie to me\nSay my name like you mean it\nLie to me, lie to me\nI don't need the truth, I need this\n\n[Verse 1]\nYou laugh before the punchline lands\nLike you heard it somewhere first\nSaid Thursday on Monday, Tuesday by Friday\nThe days keep changing in your words\nYour toothbrush left my cup in May\nYou kiss me like you're sorry\n\n[Chorus]\nLie to me, lie to me\nSay my name like you mean it\nLie to me, lie to me\nSay he's just a friend, I'll believe it\n\n[Verse 2]\n\"I'm home,\" you say it way too fast\nI hear the traffic right behind you\nEyes on me, heart somewhere else\nStill I set the table for two\nI'd rather have the lie at dinner\nThan the truth, and eat alone\n\n[Chorus]\nLie to me, lie to me\nSay my name like you mean it\nLie to me, lie to me\nKeep it warm, keep it easy\n\n[Strings Swell]\n\n[Chorus]\nLie to me, lie to me\nSay my name like you mean it\nLie to me, lie to me\nYou don't even have to now\nI lie to me, I lie to me\nBetter than you ever did"
+  },
+  {
+   "titulo": "Don't Get Close",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "132",
+   "duracion": "2:30",
+   "puntaje": 54.0,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/CEM7Ij16FTSayL05",
+     "tid": "dont-get-close-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/kzc2UeTpZAJwxGgM",
+     "tid": "dont-get-close-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nDon't get close, don't get close\nYou'd love the man I'm faking\nDon't get close, don't get close\nI run before the morning\n\n[Verse 1]\nTwo doors in every room, I count 'em first\nKeys in my pocket through the whole dinner\nI know your coffee, two sugars, hot\nWon't learn your middle name\nCoat stays on at your place\nLike I might need the door\n\n[Chorus]\nDon't get close, don't get close\nYou'd love the man I'm faking\nDon't get close, don't get close\nHe's warmer than the real thing\n\n[Verse 2]\nPark my car facing out, always\nSleep on the side by the door\nYou ask me why I never stay late\nI laugh it off, I laugh a lot\nEvery good thing in my life\nI loved it from a distance\n\n[Dropout]\nTruth is, I'm scared that you'll see me\nThe one under the paint\nTruth is, I'm scared that you'll leave first\nSo I beat you to the gate\n\n[Organ Swell]\n\n[Chorus]\nDon't get close, don't get close\nYou'd love the man I'm faking\nBut you got close, you got close\nAnd I'm still here at breakfast"
+  },
+  {
+   "titulo": "He Don't Know You",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "139",
+   "duracion": "2:30",
+   "puntaje": 54.5,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/YBzKwM9eEleuZFFV",
+     "tid": "he-dont-know-you-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:30",
+     "suno": "https://suno.com/s/aR0kKmKyuEDHkJ7v",
+     "tid": "he-dont-know-you-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Verse 1]\nEnd stool at the bar, mine for two years\nYou walk in like you own the door\nHair down, you only wear it down when you're trying\nAnd then it hits me\n\n[Chorus]\nHe don't know you, he don't know you\nThat laugh ain't the real one\nHe don't know you, he don't know you\nYou hate the drink you're sippin' on\n\n[Verse 2]\nWhiskey neat, you hate whiskey\nYou drink it slow to match his pace\nBartender pours mine without asking\nKnows my poison, knows my face\nYou touch his arm the way you touched mine\nMuscle memory ain't love\n\n[Chorus]\nHe don't know you, he don't know you\nThat laugh ain't the real one\nHe don't know you, he don't know you\nHe calls you babe, I watch you flinch\n\n[Synth Break]\n\n[Chorus]\nHe don't know you, he don't know you\nThat laugh ain't the real one\nHe don't know you, he don't know you\nAnd tonight it hit me hard\nHe don't know you\nAnd lately, neither do I"
   }
  ],
  "publicaciones": [
@@ -5964,9 +6078,16 @@
     "creditos": 40,
     "fecha": "2026-11-26",
     "saldo": 830
+   },
+   {
+    "mision": "Misión 18",
+    "canciones": 3,
+    "creditos": 30,
+    "fecha": "2026-11-27",
+    "saldo": 800
    }
   ],
-  "saldo_actual": 830,
+  "saldo_actual": 800,
   "factura": "2026-12-10"
  },
  "detalle_publicadas": {
