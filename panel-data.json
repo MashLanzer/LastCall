@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-27",
- "revision": "2026-11-27 12:17 ET",
+ "revision": "2026-11-27 12:55 ET",
  "app_version_code": 36,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -16,16 +16,16 @@
  "stats": {
   "spotify_oyentes": 2,
   "youtube_subs": 7,
-  "youtube_vistas": 950,
-  "canciones": 149,
-  "tomas": 305
+  "youtube_vistas": 988,
+  "canciones": 146,
+  "tomas": 299
  },
  "proximo_lanzamiento": {
-  "titulo": "Wide Awake",
-  "fecha_iso": "2026-11-27",
-  "texto": "Sale el viernes 27/11/2026 · 24 tiendas · video oficial el mismo día",
-  "presave": "https://distrokid.com/hyperfollow/lastcall14/wide-awake",
-  "fecha_hora_iso": "2026-11-27T00:00:00-05:00"
+  "titulo": "Siguiente sencillo",
+  "fecha_iso": "2026-12-18",
+  "texto": "Sale el viernes 18/12/2026 · cadencia de sencillos cada 3 semanas · la canción sale de las marcas de la Sala",
+  "presave": "",
+  "fecha_hora_iso": "2026-12-18T00:00:00-05:00"
  },
  "canciones": [
   {
@@ -725,10 +725,10 @@
   },
   {
    "titulo": "Wide Awake (Stellar Cut Full v2)",
-   "estado": "En producción",
+   "estado": "Lanzada",
    "tomas": 2,
    "bpm": "",
-   "duracion": "",
+   "duracion": "2:29",
    "tiene_portada": true,
    "tomas_detalle": [
     {
@@ -5619,7 +5619,7 @@
   },
   {
    "titulo": "Lie To Me",
-   "estado": "TOMAS PARA DECIDIR",
+   "estado": "En la Sala",
    "tomas": 2,
    "bpm": "127",
    "duracion": "2:30",
@@ -5657,7 +5657,7 @@
   },
   {
    "titulo": "Don't Get Close",
-   "estado": "TOMAS PARA DECIDIR",
+   "estado": "En la Sala",
    "tomas": 2,
    "bpm": "132",
    "duracion": "2:30",
@@ -5695,7 +5695,7 @@
   },
   {
    "titulo": "He Don't Know You",
-   "estado": "TOMAS PARA DECIDIR",
+   "estado": "En la Sala",
    "tomas": 2,
    "bpm": "139",
    "duracion": "2:30",
@@ -5733,7 +5733,7 @@
   },
   {
    "titulo": "Save Your Breath",
-   "estado": "TOMAS PARA DECIDIR",
+   "estado": "En la Sala",
    "tomas": 2,
    "bpm": "127",
    "duracion": "2:29",
@@ -5771,7 +5771,7 @@
   },
   {
    "titulo": "Amen Anyway",
-   "estado": "TOMAS PARA DECIDIR",
+   "estado": "En la Sala",
    "tomas": 2,
    "bpm": "132",
    "duracion": "2:29",
@@ -5809,7 +5809,7 @@
   },
   {
    "titulo": "Drink It Anyway",
-   "estado": "TOMAS PARA DECIDIR",
+   "estado": "En la Sala",
    "tomas": 2,
    "bpm": "139",
    "duracion": "2:17",
@@ -5855,7 +5855,7 @@
    "enlace": "https://open.spotify.com/track/4ZXgGz85mxeGNxLsi260Kt",
    "upc": "700087980560",
    "isrc": "QTAF32623981",
-   "nota": "El 17/11/2026 la playlist «Lonely & Broke» (vía Daily Playlists) aceptó la canción."
+   "nota": "El 17/11/2026 la playlist de Spotify «Lonely & Broke» (vía Daily Playlists) aceptó la canción."
   },
   {
    "cancion": "Wide Awake",
@@ -5895,6 +5895,36 @@
    "enlace": "https://soundcloud.com/lastcallofficial",
    "upc": "700087980560",
    "isrc": "QTAF32623981",
+   "nota": ""
+  },
+  {
+   "cancion": "Wide Awake",
+   "plataforma": "Spotify",
+   "fecha": "27/11/2026",
+   "detalle": "En vivo · DistroKid, 24 tiendas · toma wide-awake-stellar-fullv2-t2",
+   "enlace": "https://open.spotify.com/track/5x8Dz5oK3lqNbaqKVFN0D9",
+   "upc": "700081377557",
+   "isrc": "QTAF72609135",
+   "nota": "Verificada pública y reproducible el 27/11/2026 en el artista LAST CALL (7JXoT1wLvknTMi9D7Z0tc5)."
+  },
+  {
+   "cancion": "Wide Awake",
+   "plataforma": "YouTube — video oficial (visualizer)",
+   "fecha": "27/11/2026",
+   "detalle": "En vivo · público · video de la ruta de imágenes, máster 1920x1080",
+   "enlace": "https://www.youtube.com/watch?v=BnOl_5iyDyI",
+   "upc": "700081377557",
+   "isrc": "QTAF72609135",
+   "nota": "Miniatura personalizada fijada y divulgación de contenido sintético activada por API el 27/11/2026."
+  },
+  {
+   "cancion": "Wide Awake",
+   "plataforma": "SoundCloud",
+   "fecha": "27/11/2026",
+   "detalle": "En vivo · pública · máster WAV con ISRC",
+   "enlace": "https://soundcloud.com/lastcallofficial/wide-awake",
+   "upc": "700081377557",
+   "isrc": "QTAF72609135",
    "nota": ""
   }
  ],
@@ -6008,28 +6038,28 @@
     },
     {
      "item": "Video oficial en YouTube",
-     "estado": "listo",
-     "nota": "Listo — se publica el mismo 27/11"
+     "estado": "hecho",
+     "nota": "En vivo y público el 27/11/2026"
     },
     {
      "item": "Serie promo (7 piezas HyperFrames)",
      "estado": "en_curso",
-     "nota": "01 y 02 públicas · 03–07 programadas a las 19:00 ET"
+     "nota": "Serie de 7 piezas · la 07 sale el 27/11 a las 19:00 ET"
     },
     {
      "item": "Web oficial del artista",
-     "estado": "pendiente",
-     "nota": "Se añade la canción al salir el sencillo (27/11)"
+     "estado": "hecho",
+     "nota": "«Wide Awake» publicada en la web oficial al salir el sencillo (27/11)"
     },
     {
      "item": "SoundCloud",
-     "estado": "pendiente",
-     "nota": "Se publica el 27/11"
+     "estado": "hecho",
+     "nota": "Publicada el 27/11/2026 con el máster WAV y su ISRC"
     },
     {
      "item": "Envío a curadores (Daily Playlists)",
      "estado": "pendiente",
-     "nota": "En cuanto el enlace de Spotify esté en vivo — regla del 17/11"
+     "nota": "Enlace de Spotify en vivo el 27/11 — envío en curso (regla del 17/11)"
     }
    ]
   },
@@ -6054,7 +6084,7 @@
   "produccion": [
    {
     "titulo": "Wide Awake",
-    "paso": "Entregada en DistroKid y aceptada — sale el 27/11/2026",
+    "paso": "Lanzada el 27/11/2026 — en vivo en 24 tiendas, YouTube y SoundCloud",
     "detalle": "La toma subida es «Wide Awake (Stellar Cut Full v2)» T2"
    }
   ],
@@ -6239,11 +6269,11 @@
    "estadisticas": [
     [
      "Video oficial (YouTube)",
-     "59 vistas · 26/11/2026"
+     "61 vistas · 27/11/2026"
     ],
     [
      "Lyric Video (YouTube)",
-     "104 vistas · 26/11/2026"
+     "107 vistas · 27/11/2026"
     ],
     [
      "Curadores",
@@ -6277,8 +6307,8 @@
    "letra": "# Receta: dark pop tipo Stellar — Fa menor, 130 BPM, voz pop suave con falsete, Persona «Voz Dark ML».\n# Estado: letra aprobada para generar tomas de escucha; SIN subir a DistroKid sin aprobación expresa de Brayan.\n\n[Verse 1]\nI sang you off to sleep each night\nNow the song is stuck in me\nCounting cracks up on the ceiling\nWhere your shadow used to be\n\n[Pre-Chorus]\nThe moon is red, the house is cold\nI did this — or so I'm told\n\n[Chorus]\nNow I'm wide awake\nWhile you're sleeping fine\nI gave you all my dreams\nAnd you took your time\nNow I'm wide awake\nWith the mess we made\nSleep tight, love —\nI'm the one who pays\n\n[Verse 2]\nYour pillow still remembers you\nBetter than I ever will\nI close my eyes, you're standing there\nQuiet, darker, still\n\n[Bridge]\nHush now, don't you cry\nThat's what I sang — what a lie\nHush now, close your eyes\nI'm the ghost this time",
    "datos": [
     [
-     "Sale",
-     "Viernes 27/11/2026 · 12:00 AM ET"
+     "Publicada",
+     "27/11/2026"
     ],
     [
      "Plataformas",
@@ -6293,22 +6323,22 @@
      "QTAF72609135"
     ],
     [
-     "Pre-save",
-     "Activo (HyperFollow)"
-    ],
-    [
      "Distribuidora",
      "DistroKid"
     ]
    ],
    "estadisticas": [
     [
-     "Video oficial",
-     "Listo — se publica el mismo día 27/11"
+     "Spotify",
+     "En vivo · verificada pública y reproducible el 27/11/2026"
+    ],
+    [
+     "Video oficial (YouTube)",
+     "En vivo · público desde el 27/11/2026"
     ],
     [
      "Serie promo",
-     "7 piezas HyperFrames (01 y 02 públicas, 03–07 programadas)"
+     "7 piezas HyperFrames · la 07 sale el 27/11 a las 19:00 ET"
     ],
     [
      "Pitch editorial Spotify",
@@ -6321,12 +6351,20 @@
    ],
    "enlaces": [
     [
-     "Pre-save (HyperFollow)",
-     "https://distrokid.com/hyperfollow/lastcall14/wide-awake"
+     "Spotify — la canción",
+     "https://open.spotify.com/track/5x8Dz5oK3lqNbaqKVFN0D9"
     ],
     [
-     "YouTube — canal oficial",
-     "https://www.youtube.com/channel/UCSGx55RnqxXjk1WY1Lo4jYQ"
+     "Video oficial (YouTube)",
+     "https://www.youtube.com/watch?v=BnOl_5iyDyI"
+    ],
+    [
+     "SoundCloud",
+     "https://soundcloud.com/lastcallofficial/wide-awake"
+    ],
+    [
+     "HyperFollow",
+     "https://distrokid.com/hyperfollow/lastcall14/wide-awake"
     ]
    ]
   }
