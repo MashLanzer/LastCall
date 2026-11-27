@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-27",
- "revision": "2026-11-27 01:30 ET",
+ "revision": "2026-11-27 12:15 ET",
  "app_version_code": 36,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -6085,9 +6085,16 @@
     "creditos": 30,
     "fecha": "2026-11-27",
     "saldo": 800
+   },
+   {
+    "mision": "Misión 19",
+    "canciones": 3,
+    "creditos": 30,
+    "fecha": "2026-11-27",
+    "saldo": 770
    }
   ],
-  "saldo_actual": 800,
+  "saldo_actual": 770,
   "factura": "2026-12-10"
  },
  "detalle_publicadas": {
