@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-27",
- "revision": "2026-11-27 12:15 ET",
+ "revision": "2026-11-27 12:17 ET",
  "app_version_code": 36,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -5730,6 +5730,120 @@
     }
    ],
    "letra": "[Verse 1]\nEnd stool at the bar, mine for two years\nYou walk in like you own the door\nHair down, you only wear it down when you're trying\nAnd then it hits me\n\n[Chorus]\nHe don't know you, he don't know you\nThat laugh ain't the real one\nHe don't know you, he don't know you\nYou hate the drink you're sippin' on\n\n[Verse 2]\nWhiskey neat, you hate whiskey\nYou drink it slow to match his pace\nBartender pours mine without asking\nKnows my poison, knows my face\nYou touch his arm the way you touched mine\nMuscle memory ain't love\n\n[Chorus]\nHe don't know you, he don't know you\nThat laugh ain't the real one\nHe don't know you, he don't know you\nHe calls you babe, I watch you flinch\n\n[Synth Break]\n\n[Chorus]\nHe don't know you, he don't know you\nThat laugh ain't the real one\nHe don't know you, he don't know you\nAnd tonight it hit me hard\nHe don't know you\nAnd lately, neither do I"
+  },
+  {
+   "titulo": "Save Your Breath",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "127",
+   "duracion": "2:29",
+   "puntaje": 55.0,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/sgKuAGVmTB1Cvq1T",
+     "tid": "save-your-breath-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/Uo1K0ekSVi5O5yz3",
+     "tid": "save-your-breath-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nSave your breath, save your breath\nDon't waste it on me\nSave your breath, save your breath\nI'm not who you need\n\n[Verse 1]\nPorch light burning every night\nLike I'd walk in out of the dark\nCasserole cold in foil on the step\nMy name underlined in your psalms\nYou pray at the table, grace for the lost\nGirl, I heard you — I just can't stop\n\n[Chorus]\nSave your breath, save your breath\nDon't waste it on me\nSave your breath, save your breath\nSet your good heart free\n\n[Verse 2]\nYour car idles out at the curb\nSunday best, Bible on the seat\nYou'd drive me to church, you'd carry my sins\nI can't even carry me\n\n[Guitar Break]\n\n[Chorus]\nSave your breath, save your breath\nDon't waste it on me\nSave your breath, save your breath\nLast night the porch light was off\nYou saved your breath, you saved your breath\nAnd I felt it in the dark"
+  },
+  {
+   "titulo": "Amen Anyway",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "132",
+   "duracion": "2:29",
+   "puntaje": 54.5,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/cDcHKW3874DYMl95",
+     "tid": "amen-anyway-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/neA0pUS2YO64H5Ce",
+     "tid": "amen-anyway-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Chorus]\nAmen, amen anyway\nDon't believe a word I say\nAmen, amen anyway\nKnees on the floor, I stay\n\n[Verse 1]\nBack pew, same seat since I was nine\nMy name in pencil in the hymnal\nOffering plate goes hand to hand\nComes to me, I got nothing in mine\nMama's rosary in my coat pocket\nHaven't prayed it since I can't say when\n\n[Chorus]\nAmen, amen anyway\nDon't believe a word I say\nAmen, amen anyway\nIf You're up there, look away\n\n[Verse 2]\nPreacher says the lost come home\nI'm lost in my own zip code\nI sing the words, I know them all\nMy mouth believes what I don't\n\n[Synth Swell]\n\n[Chorus]\nAmen, amen anyway\nDon't believe a word I say\nI stopped saying amen this year\nMy knees still bend anyway"
+  },
+  {
+   "titulo": "Drink It Anyway",
+   "estado": "TOMAS PARA DECIDIR",
+   "tomas": 2,
+   "bpm": "139",
+   "duracion": "2:17",
+   "puntaje": 53.5,
+   "tiene_portada": false,
+   "tomas_detalle": [
+    {
+     "dur": "2:17",
+     "suno": "https://suno.com/s/oenkboMMqRmvdTJw",
+     "tid": "drink-it-anyway-t1",
+     "n": 1,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    },
+    {
+     "dur": "2:29",
+     "suno": "https://suno.com/s/w0lhJh0ko7mgYawQ",
+     "tid": "drink-it-anyway-t2",
+     "n": 2,
+     "marcas": {
+      "like": false,
+      "dislike": false,
+      "produccion": false,
+      "escuchada": false,
+      "descartada": false
+     }
+    }
+   ],
+   "letra": "[Hook]\nI know what you do to me\nI drink it anyway\n\n[Verse 1]\nLipstick left on my glass again\nYou mark everything you touch\nTwo inches left in the bottle\nAnd that's already too much\nMy keys in the bowl by your door\nLike I live here, like I'm yours\n\n[Chorus]\nDrink it anyway, drink it anyway\nPoison tastes like you tonight\nDrink it anyway, drink it anyway\nWrong never felt this right\n\n[Verse 2]\n1:47 on the microwave clock\nMy friends gave up texting me\nYou pour slow, you watch me choose it\nNobody's forcing me\n\n[Funk Break]\n\n[Chorus]\nDrink it anyway, drink it anyway\nPoison tastes like you tonight\nDrink it anyway, drink it anyway\nNext time I'll say no, I swear\nI said that last time too"
   }
  ],
  "publicaciones": [
