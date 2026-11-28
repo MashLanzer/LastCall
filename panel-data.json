@@ -1,7 +1,7 @@
 {
  "version": 2,
  "actualizado": "2026-11-27",
- "revision": "2026-11-27 15:22 ET",
+ "revision": "2026-11-27 21:22 ET",
  "app_version_code": 36,
  "app_url": "https://raw.githubusercontent.com/MashLanzer/LastCall/main/app/LastCall.apk",
  "artista": {
@@ -16,9 +16,9 @@
  "stats": {
   "spotify_oyentes": 2,
   "youtube_subs": 7,
-  "youtube_vistas": 988,
-  "canciones": 146,
-  "tomas": 299
+  "youtube_vistas": 999,
+  "canciones": 152,
+  "tomas": 311
  },
  "proximo_lanzamiento": {
   "titulo": "Siguiente sencillo",
@@ -5860,12 +5860,12 @@
   {
    "cancion": "Wide Awake",
    "plataforma": "Pre-save (HyperFollow)",
-   "fecha": "Sale el 27/11/2026",
-   "detalle": "DistroKid · 24 tiendas · entregada · video oficial el mismo 27/11 en YouTube",
+   "fecha": "27/11/2026",
+   "detalle": "Campaña de pre-save cerrada · el sencillo salió el 27/11/2026 en 24 tiendas vía DistroKid",
    "enlace": "https://distrokid.com/hyperfollow/lastcall14/wide-awake",
    "upc": "700081377557",
    "isrc": "QTAF72609135",
-   "nota": "El día del lanzamiento sale también el envío a los curadores de playlists (Daily Playlists)."
+   "nota": "El envío a curadores (Daily Playlists) se hizo el 27/11/2026 con el enlace de Spotify ya en vivo: 5 playlists, en revisión."
   },
   {
    "cancion": "Sleep Tight",
@@ -6010,7 +6010,7 @@
    "toma": "Toma 2"
   }
  ],
- "decisiones_en": 1795718139860,
+ "decisiones_en": 1795832457224,
  "lanzamientos": {
   "proximo": {
    "titulo": "Wide Awake",
@@ -6043,8 +6043,8 @@
     },
     {
      "item": "Serie promo (7 piezas HyperFrames)",
-     "estado": "en_curso",
-     "nota": "Serie de 7 piezas · la 07 sale el 27/11 a las 19:00 ET"
+     "estado": "hecho",
+     "nota": "Serie completa · las 7 piezas publicadas; la 07 salió el 27/11/2026 a las 19:00 ET"
     },
     {
      "item": "Web oficial del artista",
@@ -6058,8 +6058,8 @@
     },
     {
      "item": "Envío a curadores (Daily Playlists)",
-     "estado": "pendiente",
-     "nota": "Enlace de Spotify en vivo el 27/11 — envío en curso (regla del 17/11)"
+     "estado": "hecho",
+     "nota": "Enviado el 27/11/2026 con el enlace de Spotify en vivo · 5 playlists, en revisión"
     }
    ]
   },
@@ -6269,7 +6269,7 @@
    "estadisticas": [
     [
      "Video oficial (YouTube)",
-     "61 vistas · 27/11/2026"
+     "62 vistas · 27/11/2026"
     ],
     [
      "Lyric Video (YouTube)",
@@ -6334,11 +6334,11 @@
     ],
     [
      "Video oficial (YouTube)",
-     "En vivo · público desde el 27/11/2026"
+     "En vivo · público desde el 27/11/2026 · 2 vistas al 27/11 (21:25 ET)"
     ],
     [
      "Serie promo",
-     "7 piezas HyperFrames · la 07 sale el 27/11 a las 19:00 ET"
+     "7 piezas HyperFrames · serie completa el 27/11/2026"
     ],
     [
      "Pitch editorial Spotify",
